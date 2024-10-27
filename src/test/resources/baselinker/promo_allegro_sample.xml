@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order>
+    <items>
+        <item>
+            <billing_text>5 PACK - Boxer shorts DreiMaster L</billing_text>
+            <channel_id></channel_id>
+            <channel_sku></channel_sku>
+            <date_created>2022-11-23T11:56:43</date_created>
+            <ean>4063523845332</ean>
+            <item_price>1.00</item_price>
+            <quantity>1</quantity>
+            <sku>4063523845332</sku>
+            <tb_id>12911880143</tb_id>
+        </item>
+    </items>
+    <order_data>
+        <approved>1</approved>
+        <channel_no></channel_no>
+        <channel_sign>allegropl</channel_sign>
+        <date_created>2022-11-23T11:56:43</date_created>
+        <item_count>1</item_count>
+        <order_date>23.11.2022 11:56:43</order_date>
+        <paid>9.99</paid>
+        <tb_id>BL72002699</tb_id>
+        <total_item_amount>1.00</total_item_amount>
+    </order_data>
+    <payment>
+        <costs>0</costs>
+        <directdebit></directdebit>
+        <type>allegropl</type>
+    </payment>
+    <sell_to>
+        <channel_no></channel_no>
+        <city>Zgierz</city>
+        <country>PL</country>
+        <email>mou8zu7ig9+21118d326@allegromail.pl</email>
+        <firstname>Filip</firstname>
+        <lastname>Stepniak</lastname>
+        <name>Filip Stepniak</name>
+        <street_no>Letnia 43a</street_no>
+        <tb_id>mou8zu7ig9+21118d326@allegromail.pl</tb_id>
+        <zip>95-100</zip>
+    </sell_to>
+    <ship_to>
+        <channel_no></channel_no>
+        <city>Zgierz</city>
+        <country>PL</country>
+        <email>mou8zu7ig9+21118d326@allegromail.pl</email>
+        <firstname>Filip</firstname>
+        <lastname>Stepniak</lastname>
+        <name>Filip Stepniak</name>
+        <street_no>Letnia 43a</street_no>
+        <tb_id>mou8zu7ig9+21118d326@allegromail.pl</tb_id>
+        <zip>95-100</zip>
+    </ship_to>
+    <shipment>
+        <price>0</price>
+    </shipment>
+</order>

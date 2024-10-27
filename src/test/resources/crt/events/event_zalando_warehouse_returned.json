@@ -1,0 +1,26 @@
+{
+  "event_id": "bd82f175-ee66-4de0-973d-d44e79d4ea48",
+  "order_id": "a3af0e17-927f-4581-8494-888938f168c5",
+  "order_number": "10104421460422",
+  "state": "zalando_warehouse_returned",
+  "timestamp": "2020-01-30T15:21:11.725Z",
+  "customer_billing_address": {
+    "first_name": "Max",
+    "last_name": "Mustermann",
+    "address_line_1": "Musterstraße 12 34",
+    "zip_code": "12345",
+    "city": "Berlin",
+    "country_code": "DE"
+  },
+  "items": [
+    {
+      "item_id": "e7eb6307-2c78-4f56-a010-eb4da3eda40c",
+      "ean": "4059701022541",
+      "price": 99.95,
+      "currency": "EUR",
+      "article_number": "31.832.34-6,5",
+      "return_reason_code": 2,
+      "return_location": "ZALANDO"
+    }
+  ]
+}

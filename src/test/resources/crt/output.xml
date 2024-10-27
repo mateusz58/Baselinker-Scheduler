@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <order_data>
+    <order_date>2020-01-28</order_date>
+    <tb_id>10105000000000-11</tb_id>
+    <channel_sign>ZCRPMY</channel_sign>
+    <channel_id>10105000000000-11</channel_id>
+    <channel_no>10105000000000-11</channel_no>
+    <fix_dhl_id>003404342888680268172</fix_dhl_id>
+    <fix_dhlRetour_id>35141263178</fix_dhlRetour_id>
+    <paid>99.95</paid>
+    <approved>1</approved>
+    <item_count>1</item_count>
+    <total_item_amount>99.95</total_item_amount>
+    <date_created>2020-01-28</date_created>
+  </order_data>
+  <sell_to>
+    <tb_id></tb_id>
+    <channel_no></channel_no>
+    <firstname>Max</firstname>
+    <lastname>Mustermann</lastname>
+    <name>Max Mustermann</name>
+    <street_no>Musterstraße 12 34</street_no>
+    <zip>12345</zip>
+    <city>Berlin</city>
+    <country>DE</country>
+    <title></title>
+  </sell_to>
+  <ship_to>
+    <tb_id></tb_id>
+    <channel_no></channel_no>
+    <firstname>Max</firstname>
+    <lastname>Mustermann</lastname>
+    <name>Max Mustermann</name>
+    <street_no>Musterstraße 12 34</street_no>
+    <zip>12345</zip>
+    <city>Berlin</city>
+    <country>DE</country>
+    <email></email>
+    <title></title>
+  </ship_to>
+  <shipment>
+    <price>0</price>
+  </shipment>
+  <payment>
+    <costs>0</costs>
+    <directdebit></directdebit>
+    <type>ZCRPMY</type>
+  </payment>
+  <history>
+    <event>
+      <event_id>3aa445e7-550a-442b-93e1-0cf84183e507</event_id>
+      <event_type>ORDER_APPROVED</event_type>
+      <date_created>2020-01-28T07:41:24</date_created>
+    </event>
+  </history>
+  <items>
+    <item>
+      <tb_id>15c3aa83-3f73-4ad6-a326-e1a10a89dd52</tb_id>
+      <channel_id>0</channel_id>
+      <sku>31.832.34-6,5</sku>
+      <channel_sku>31.832.34-6,5</channel_sku>
+      <ean>4059701022541</ean>
+      <quantity>1</quantity>
+      <billing_text>31.832.34-6,5</billing_text>
+      <item_price>99.95</item_price>
+      <date_created>2020-01-28T07:41:24</date_created>
+    </item>
+  </items>
+</order>

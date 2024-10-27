@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<order>
+    <history>
+        <event>
+            <date_created>2022-10-12T07:48:10</date_created>
+            <event_id>24970712</event_id>
+            <event_type>ORDER_APPROVED</event_type>
+        </event>
+    </history>
+    <items>
+        <item>
+            <billing_text>MYMO AT NIGHT BLONDA - Maglione - pink</billing_text>
+            <channel_id>6c5c0ad1-7b9b-4142-9f4a-a479b59c19d1</channel_id>
+            <channel_sku>MYJ21I00S-J1200XS000</channel_sku>
+            <date_created>2022-10-12T07:48:10</date_created>
+            <ean>4065804208621</ean>
+            <item_price>65.42</item_price>
+            <quantity>1</quantity>
+            <sku>4065804208621</sku>
+            <tb_id>12644712</tb_id>
+            <transfer_price>53.623</transfer_price>
+        </item>
+    </items>
+    <order_data>
+        <approved>1</approved>
+        <channel_id>d1216e6d-87f6-43ad-80f3-f8777c7afb1a</channel_id>
+        <channel_no>10401140216838</channel_no>
+        <channel_sign>zait</channel_sign>
+        <date_created>2022-10-12T07:48:10</date_created>
+        <item_count>1</item_count>
+        <order_date>2022-10-12</order_date>
+        <paid>0</paid>
+        <tb_id>9191984</tb_id>
+        <total_item_amount>65.42</total_item_amount>
+    </order_data>
+    <payment>
+        <costs>0</costs>
+        <directdebit>
+        </directdebit>
+        <type>zait</type>
+    </payment>
+    <sell_to>
+        <channel_no>73008681681</channel_no>
+        <city>Cormano</city>
+        <country>IT</country>
+        <email>pp-cc-kam+10401140216838@zalando.de</email>
+        <firstname>Valeria</firstname>
+        <lastname>Paradiso</lastname>
+        <name>Valeria Paradiso</name>
+        <street_no>via Salvador Allende 31</street_no>
+        <tb_id>9105446</tb_id>
+        <zip>20032</zip>
+    </sell_to>
+    <services>
+        <service>
+            <code>stock_location_id</code>
+            <desc>a2ade4c8-ccd0-49ef-bcbd-3fdf8ad97975</desc>
+            <price>0</price>
+        </service>
+    </services>
+    <ship_to>
+        <channel_no>73008681681</channel_no>
+        <city>Cormano</city>
+        <country>IT</country>
+        <email>pp-cc-kam+10401140216838@zalando.de</email>
+        <firstname>Valeria</firstname>
+        <lastname>Paradiso</lastname>
+        <name>Valeria Paradiso</name>
+        <street_no>via Salvador Allende 31</street_no>
+        <tb_id>9105446</tb_id>
+        <zip>20032</zip>
+    </ship_to>
+    <shipment>
+        <price>0</price>
+    </shipment>
+</order>

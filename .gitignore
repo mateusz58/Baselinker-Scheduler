@@ -1,0 +1,77 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+\#\#\# STS \#\#\#
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+\#\#\# IntelliJ IDEA \#\#\#
+*.idea
+*.iws
+*.iml
+*.ipr
+
+\#\#\# Gradle \#\#\#
+*.
+gradle
+
+\#\# Application properties \#\#
+!application.properties
+!application-dev.properties
+!application-prod.properties
+
+\# Jar files \#\#
+*.jar
+
+
+\#\#\# NetBeans \#\#\#
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+\#\#\# VS Code \#\#\#
+.vscode/
+
+*/target/
+*/generated
+
+#\# Custom
+src/test/java/playground/
+src/main/java/trash
+src/main/java/trash/*
+
+#\# LOG files
+src/main/resources/logs/all/*
+logs/baselinker/*
+src/main/resources/logs/crt/*
+
+#\# OUTPUT
+src/main/resources/OUTPUT_BASELINKER/*
+src/main/resources/OUTPUT_CRT/*
+OUTPUT_HISTORY/*
+
+#\# FILE HELPER TEST_FILES
+src/test/resources/FILE_HELPER/actual/*
+src/test/resources/FILE_HELPER/given/*
+src/test/resources/FILE_HELPER/expected/*
+src/test/resources/testFiles/*
+src/test/resources/tests/*
+
+### OUTPUT DIRECTORY
+!src/main/resources/OUTPUT_CRT
+!src/main/resources/OUTPUT_BASELINKER
+
+## TEMP DIRECTORY
+!src/main/resources/temp
+src/main/resources/temp/*

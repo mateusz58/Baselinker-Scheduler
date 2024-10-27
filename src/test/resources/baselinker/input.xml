@@ -1,0 +1,116 @@
+<orders>
+    <order>
+        <address>Feliksów 43 E</address>
+        <address_box_machine></address_box_machine>
+        <address_city>Skierniewice</address_city>
+        <address_company></address_company>
+        <address_country>Polska</address_country>
+        <address_country_code>PL</address_country_code>
+        <address_name>Katarzyna Matyjasiak</address_name>
+        <address_pni>0</address_pni>
+        <address_postal>96-100</address_postal>
+        <buyer_comments></buyer_comments>
+        <client_address>Feliksów 43 E</client_address>
+        <client_city>Skierniewice</client_city>
+        <client_company></client_company>
+        <client_email>7iwri30xbm+ba1a2b3@allegromail.pl</client_email>
+        <client_login>kasieczka88</client_login>
+        <client_name>Katarzyna Matyjasiak</client_name>
+        <client_nip></client_nip>
+        <client_phone>+48781098127</client_phone>
+        <client_postal>96-100</client_postal>
+        <client_want_invoice>0</client_want_invoice>
+        <date_add>19.11.2022 11:44:08</date_add>
+        <delivery_price>0.00</delivery_price>
+        <delivery_type>Allegro Kurier DPD</delivery_type>
+        <order_amount_brutto>504.00</order_amount_brutto>
+        <order_id>70923345345</order_id>
+        <payment_name>PayU</payment_name>
+        <payment_paid>504.00</payment_paid>
+        <payment_status>1</payment_status>
+        <rows>
+            <row>
+                <amount_brutto>252.00</amount_brutto>
+                <auction_id>12762206966</auction_id>
+                <item_price_brutto>252.00</item_price_brutto>
+                <name>BLUZA męska rozpinana ciepła funkcyjna L szara</name>
+                <products_ean></products_ean>
+                <products_id></products_id>
+                <products_sku>4063523576700</products_sku>
+                <quantity>1</quantity>
+                <symkar></symkar>
+                <vat_rate>23.00</vat_rate>
+            </row>
+            <row>
+                <amount_brutto>252.00</amount_brutto>
+                <auction_id>12762368500</auction_id>
+                <item_price_brutto>252.00</item_price_brutto>
+                <name>BLUZA męska rozpinana ciepła funkcyjna M szara</name>
+                <products_ean></products_ean>
+                <products_id></products_id>
+                <products_sku>4063523576748</products_sku>
+                <quantity>1</quantity>
+                <symkar></symkar>
+                <vat_rate>23.00</vat_rate>
+            </row>
+        </rows>
+        <seller_comments></seller_comments>
+    </order>
+    <order>
+        <address>Feliksów 43 E</address>
+        <address_box_machine></address_box_machine>
+        <address_city>Skierniewice</address_city>
+        <address_company></address_company>
+        <address_country>Polska</address_country>
+        <address_country_code>PL</address_country_code>
+        <address_name>Katarzyna Matyjasiak</address_name>
+        <address_pni>0</address_pni>
+        <address_postal>96-100</address_postal>
+        <buyer_comments></buyer_comments>
+        <client_address>Feliksów 43 E</client_address>
+        <client_city>Skierniewice</client_city>
+        <client_company></client_company>
+        <client_email>7iwri30xbm+ba1a2b3@allegromail.pl</client_email>
+        <client_login>kasieczka88</client_login>
+        <client_name>Katarzyna Matyjasiak</client_name>
+        <client_nip></client_nip>
+        <client_phone>+48781098127</client_phone>
+        <client_postal>96-100</client_postal>
+        <client_want_invoice>0</client_want_invoice>
+        <date_add>19.11.2022 11:44:08</date_add>
+        <delivery_price>0.00</delivery_price>
+        <delivery_type>Allegro Kurier DPD</delivery_type>
+        <order_amount_brutto>504.00</order_amount_brutto>
+        <order_id>70923234234223423434</order_id>
+        <payment_name>PayU</payment_name>
+        <payment_paid>504.00</payment_paid>
+        <payment_status>1</payment_status>
+        <rows>
+            <row>
+                <amount_brutto>252.00</amount_brutto>
+                <auction_id>12762206966</auction_id>
+                <item_price_brutto>252.00</item_price_brutto>
+                <name>BLUZA męska rozpinana ciepła funkcyjna L szara</name>
+                <products_ean></products_ean>
+                <products_id></products_id>
+                <products_sku>4063523576700</products_sku>
+                <quantity>1</quantity>
+                <symkar></symkar>
+                <vat_rate>23.00</vat_rate>
+            </row>
+            <row>
+                <amount_brutto>252.00</amount_brutto>
+                <auction_id>12762368500</auction_id>
+                <item_price_brutto>252.00</item_price_brutto>
+                <name>BLUZA męska rozpinana ciepła funkcyjna M szara</name>
+                <products_ean></products_ean>
+                <products_id></products_id>
+                <products_sku>4063523576748</products_sku>
+                <quantity>1</quantity>
+                <symkar></symkar>
+                <vat_rate>23.00</vat_rate>
+            </row>
+        </rows>
+        <seller_comments></seller_comments>
+    </order>
+</orders>

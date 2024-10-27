@@ -1,0 +1,1613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orders>
+    <order orderSource="allegro">
+        <order_id>72002699</order_id>
+        <date_add>23.11.2022 11:56:43</date_add>
+        <payment_name>Przelewy24</payment_name>
+        <payment_status>1</payment_status>
+        <payment_paid>9.99</payment_paid>
+        <delivery_type>Allegro Paczkomaty InPost</delivery_type>
+        <delivery_price>8.99</delivery_price>
+        <buyer_comments></buyer_comments>
+        <seller_comments></seller_comments>
+        <client_login>sonski_77</client_login>
+        <client_email>mou8zu7ig9+21118d326@allegromail.pl</client_email>
+        <client_phone>+48664589963</client_phone>
+        <client_name>Filip Stepniak</client_name>
+        <client_company></client_company>
+        <client_nip></client_nip>
+        <client_postal>95-100</client_postal>
+        <client_city>Zgierz</client_city>
+        <client_address>Letnia 43a</client_address>
+        <client_want_invoice>0</client_want_invoice>
+        <address_name>Filip Stepniak</address_name>
+        <address_company></address_company>
+        <address_country>Polska</address_country>
+        <address_country_code>PL</address_country_code>
+        <address_box_machine>ZGI08N</address_box_machine>
+        <address_pni>ZGI08N</address_pni>
+        <address_postal>95-100</address_postal>
+        <address_city>Zgierz</address_city>
+        <address>Letnia 43a</address>
+        <order_amount_brutto>1.00</order_amount_brutto>
+        <rows>
+            <row>
+                <name>5 PACK - Boxer shorts DreiMaster L</name>
+                <products_id>169461179</products_id>
+                <products_ean>4063523845332</products_ean>
+                <products_sku></products_sku>
+                <auction_id>12911880143</auction_id>
+                <item_price_brutto>1.00</item_price_brutto>
+                <quantity>1</quantity>
+                <amount_brutto>1</amount_brutto>
+                <vat_rate>0.00</vat_rate>
+                <symkar>169461179</symkar>
+                <date_add></date_add>
+            </row>
+        </rows>
+    </order>
+    <order orderSource="allegro">
+        <order_id>73172716</order_id>
+        <date_add>27.11.2022 17:50:40</date_add>
+        <payment_name>Przelewy24</payment_name>
+        <payment_status>1</payment_status>
+        <payment_paid>380.99</payment_paid>
+        <delivery_type>Allegro Paczkomaty InPost</delivery_type>
+        <delivery_price>8.99</delivery_price>
+        <buyer_comments></buyer_comments>
+        <seller_comments></seller_comments>
+        <client_login>Eni87</client_login>
+        <client_email>k6dxctyttj+22b790c33@allegromail.pl</client_email>
+        <client_phone>+48514599858</client_phone>
+        <client_name>Anna Marciniak</client_name>
+        <client_company></client_company>
+        <client_nip></client_nip>
+        <client_postal>04-534</client_postal>
+        <client_city>Warszawa</client_city>
+        <client_address>Potockich 110/15</client_address>
+        <client_want_invoice>0</client_want_invoice>
+        <address_name>Anna Marciniak</address_name>
+        <address_company></address_company>
+        <address_country>Polska</address_country>
+        <address_country_code>PL</address_country_code>
+        <address_box_machine>WAW374M</address_box_machine>
+        <address_pni>WAW374M</address_pni>
+        <address_postal>04-534</address_postal>
+        <address_city>Warszawa</address_city>
+        <address>Potockich 110/15</address>
+        <order_amount_brutto>372.00</order_amount_brutto>
+        <rows>
+            <row>
+                <name>Kurtka zimowa DreiMaster M</name>
+                <products_id>169455034</products_id>
+                <products_ean>4063523758588</products_ean>
+                <products_sku></products_sku>
+                <auction_id>12926074689</auction_id>
+                <item_price_brutto>372.00</item_price_brutto>
+                <quantity>1</quantity>
+                <amount_brutto>372</amount_brutto>
+                <vat_rate>23.00</vat_rate>
+                <symkar>169455034</symkar>
+                <date_add></date_add>
+            </row>
+        </rows>
+    </order>
+    <order orderSource="allegro">
+        <order_id>73187719</order_id>
+        <date_add>27.11.2022 18:32:28</date_add>
+        <payment_name>Przelewy24</payment_name>
+        <payment_status>1</payment_status>
+        <payment_paid>380.99</payment_paid>
+        <delivery_type>Allegro Paczkomaty InPost</delivery_type>
+        <delivery_price>8.99</delivery_price>
+        <buyer_comments></buyer_comments>
+        <seller_comments></seller_comments>
+        <client_login>Eni87</client_login>
+        <client_email>k6dxctyttj+4d3182b1@allegromail.pl</client_email>
+        <client_phone>+48514599858</client_phone>
+        <client_name>Anna Marciniak</client_name>
+        <client_company></client_company>
+        <client_nip></client_nip>
+        <client_postal>04-534</client_postal>
+        <client_city>Warszawa</client_city>
+        <client_address>Potockich 110/15</client_address>
+        <client_want_invoice>0</client_want_invoice>
+        <address_name>Anna Marciniak</address_name>
+        <address_company></address_company>
+        <address_country>Polska</address_country>
+        <address_country_code>PL</address_country_code>
+        <address_box_machine>WAW374M</address_box_machine>
+        <address_pni>WAW374M</address_pni>
+        <address_postal>04-534</address_postal>
+        <address_city>Warszawa</address_city>
+        <address>Potockich 110/15</address>
+        <order_amount_brutto>372.00</order_amount_brutto>
+        <rows>
+            <row>
+                <name>Kurtka zimowa DreiMaster M</name>
+                <products_id>169455035</products_id>
+                <products_ean>4063523758595</products_ean>
+                <products_sku></products_sku>
+                <auction_id>12926037176</auction_id>
+                <item_price_brutto>372.00</item_price_brutto>
+                <quantity>1</quantity>
+                <amount_brutto>372</amount_brutto>
+                <vat_rate>23.00</vat_rate>
+                <symkar>169455035</symkar>
+                <date_add></date_add>
+            </row>
+        </rows>
+    </order>
+    <order orderSource="allegro">
+        <order_id>73320721</order_id>
+        <date_add>28.11.2022 00:02:09</date_add>
+        <payment_name>Przelewy24</payment_name>
+        <payment_status>1</payment_status>
+        <payment_paid>401.39</payment_paid>
+        <delivery_type>Allegro Paczkomaty InPost</delivery_type>
+        <delivery_price>8.99</delivery_price>
+        <buyer_comments></buyer_comments>
+        <seller_comments></seller_comments>
+        <client_login>tomi5111</client_login>
+        <client_email>tbpbw4bzbu+13271000@allegromail.pl</client_email>
+        <client_phone>+48725126520</client_phone>
+        <client_name>Tomasz Krawczyk</client_name>
+        <client_company></client_company>
+        <client_nip></client_nip>
+        <client_postal>63-600</client_postal>
+        <client_city>Kępno</client_city>
+        <client_address>Myjomice 51</client_address>
+        <client_want_invoice>0</client_want_invoice>
+        <address_name>Tomasz Krawczyk</address_name>
+        <address_company></address_company>
+        <address_country>Polska</address_country>
+        <address_country_code>PL</address_country_code>
+        <address_box_machine>KEP01A</address_box_machine>
+        <address_pni>KEP01A</address_pni>
+        <address_postal>63-600</address_postal>
+        <address_city>Kępno</address_city>
+        <address>Myjomice 51</address>
+        <order_amount_brutto>392.00</order_amount_brutto>
+        <rows>
+            <row>
+                <name>Bawełniana kurtka przejściowa DreiMaster XL</name>
+                <products_id>169440686</products_id>
+                <products_ean>4063523887905</products_ean>
+                <products_sku></products_sku>
+                <auction_id>12918199393</auction_id>
+                <item_price_brutto>392.40</item_price_brutto>
+                <quantity>1</quantity>
+                <amount_brutto>392.4</amount_brutto>
+                <vat_rate>23.00</vat_rate>
+                <symkar>169440686</symkar>
+                <date_add></date_add>
+            </row>
+        </rows>
+    </order>
+    <order orderSource="allegro">
+        <order_id>73650280</order_id>
+        <date_add>28.11.2022 23:32:47</date_add>
+        <payment_name>PayU</payment_name>
+        <payment_status>1</payment_status>
+        <payment_paid>440.99</payment_paid>
+        <delivery_type>Allegro Paczkomaty InPost</delivery_type>
+        <delivery_price>8.99</delivery_price>
+        <buyer_comments></buyer_comments>
+        <seller_comments></seller_comments>
+        <client_login>Sylvia_T</client_login>
+        <client_email>sw9xw83etk+41884dee8@allegromail.pl</client_email>
+        <client_phone>+48668274422</client_phone>
+        <client_name>Sylwia Taha-Borowik</client_name>
+        <client_company></client_company>
+        <client_nip></client_nip>
+        <client_postal>15-603</client_postal>
+        <client_city>Olmonty</client_city>
+        <client_address>Leśna 7H</client_address>
+        <client_want_invoice>0</client_want_invoice>
+        <address_name>Sylwia Taha-Borowik</address_name>
+        <address_company></address_company>
+        <address_country>Polska</address_country>
+        <address_country_code>PL</address_country_code>
+        <address_box_machine>OLM01M</address_box_machine>
+        <address_pni>OLM01M</address_pni>
+        <address_postal>15-603</address_postal>
+        <address_city>Olmonty</address_city>
+        <address>Leśna 7H</address>
+        <order_amount_brutto>432.00</order_amount_brutto>
+        <rows>
+            <row>
+                <name>Kurtka męska Parka zimowa DreiMaster L</name>
+                <products_id>169444886</products_id>
+                <products_ean>4063523657171</products_ean>
+                <products_sku></products_sku>
+                <auction_id>12918921444</auction_id>
+                <item_price_brutto>432.00</item_price_brutto>
+                <quantity>1</quantity>
+                <amount_brutto>432</amount_brutto>
+                <vat_rate>23.00</vat_rate>
+                <symkar>169444886</symkar>
+                <date_add></date_add>
+            </row>
+        </rows>
+    </order>
+    <order orderSource="allegro">
+        <order_id>73905475</order_id>
+        <date_add>29.11.2022 21:20:26</date_add>
+        <payment_name>Przelewy24</payment_name>
+        <payment_status>1</payment_status>
+        <payment_paid>392.4</payment_paid>
+        <delivery_type>Allegro Paczkomaty InPost</delivery_type>
+        <delivery_price>0</delivery_price>
+        <buyer_comments></buyer_comments>
+        <seller_comments></seller_comments>
+        <client_login>Client:100965870</client_login>
+        <client_email>l452jdwwrw+7baaaed36@allegromail.pl</client_email>
+        <client_phone>+48798725824</client_phone>
+        <client_name>Katarzyna Górka</client_name>
+        <client_company></client_company>
+        <client_nip></client_nip>
+        <client_postal>32-733</client_postal>
+        <client_city>Trzciana</client_city>
+        <client_address>Kamionna</client_address>
+        <client_want_invoice>0</client_want_invoice>
+        <address_name>Katarzyna Górka</address_name>
+        <address_company></address_company>
+        <address_country>Polska</address_country>
+        <address_country_code>PL</address_country_code>
+        <address_box_machine>UJD01M</address_box_machine>
+        <address_pni>UJD01M</address_pni>
+        <address_postal>32-733</address_postal>
+        <address_city>Trzciana</address_city>
+        <address>Kamionna</address>
+        <order_amount_brutto>392.00</order_amount_brutto>
+        <rows>
+            <row>
+                <name>Płaszcz zimowy myMo M</name>
+                <products_id>169442076</products_id>
+                <products_ean>4065804085772</products_ean>
+                <products_sku></products_sku>
+                <auction_id>12927250316</auction_id>
+                <item_price_brutto>392.40</item_price_brutto>
+                <quantity>1</quantity>
+                <amount_brutto>392.4</amount_brutto>
+                <vat_rate>23.00</vat_rate>
+                <symkar>169442076</symkar>
+                <date_add></date_add>
+            </row>
+        </rows>
+    </order>
+    <order orderSource="allegro">
+        <order_id>73941299</order_id>
+        <date_add>29.11.2022 23:06:37</date_add>
+        <payment_name>PayU</payment_name>
+        <payment_status>1</payment_status>
+        <payment_paid>392.4</payment_paid>
+        <delivery_type>Allegro Paczkomaty InPost</delivery_type>
+        <delivery_price>0</delivery_price>
+        <buyer_comments></buyer_comments>
+        <seller_comments></seller_comments>
+        <client_login>tomi5111</client_login>
+        <client_email>tbpbw4bzbu+72a0507f8@allegromail.pl</client_email>
+        <client_phone>+48725126520</client_phone>
+        <client_name>Tomasz Krawczyk</client_name>
+        <client_company></client_company>
+        <client_nip></client_nip>
+        <client_postal>63-600</client_postal>
+        <client_city>Kępno</client_city>
+        <client_address>Myjomice 51</client_address>
+        <client_want_invoice>0</client_want_invoice>
+        <address_name>Tomasz Krawczyk</address_name>
+        <address_company></address_company>
+        <address_country>Polska</address_country>
+        <address_country_code>PL</address_country_code>
+        <address_box_machine>KEP01A</address_box_machine>
+        <address_pni>KEP01A</address_pni>
+        <address_postal>63-600</address_postal>
+        <address_city>Kępno</address_city>
+        <address>Myjomice 51</address>
+        <order_amount_brutto>392.00</order_amount_brutto>
+        <rows>
+            <row>
+                <name>Bawełniana kurtka przejściowa DreiMaster XL</name>
+                <products_id>169440686</products_id>
+                <products_ean>4063523887905</products_ean>
+                <products_sku></products_sku>
+                <auction_id>12918199393</auction_id>
+                <item_price_brutto>392.40</item_price_brutto>
+                <quantity>1</quantity>
+                <amount_brutto>392.4</amount_brutto>
+                <vat_rate>23.00</vat_rate>
+                <symkar>169440686</symkar>
+                <date_add></date_add>
+            </row>
+        </rows>
+    </order>
+    <order orderSource="allegro">
+        <order_id>74065970</order_id>
+        <date_add>30.11.2022 12:52:38</date_add>
+        <payment_name>Przelewy24</payment_name>
+        <payment_status>1</payment_status>
+        <payment_paid>342</payment_paid>
+        <delivery_type>Allegro Paczkomaty InPost</delivery_type>
+        <delivery_price>0</delivery_price>
+        <buyer_comments></buyer_comments>
+        <seller_comments></seller_comments>
+        <client_login>te_de_be</client_login>
+        <client_email>rd4nnmiz8s+38e81ac99@allegromail.pl</client_email>
+        <client_phone>+48604795068</client_phone>
+        <client_name>Teresa Dębińska</client_name>
+        <client_company></client_company>
+        <client_nip></client_nip>
+        <client_postal>91-480</client_postal>
+        <client_city>Łódź</client_city>
+        <client_address>Jaskrowa 4</client_address>
+        <client_want_invoice>1</client_want_invoice>
+        <address_name>Teresa Dębińska</address_name>
+        <address_company>Przedsiębiorstwo Budem-Projekt</address_company>
+        <address_country>Polska</address_country>
+        <address_country_code>PL</address_country_code>
+        <address_box_machine>ZGI05M</address_box_machine>
+        <address_pni>ZGI05M</address_pni>
+        <address_postal>95-100</address_postal>
+        <address_city>Zgierz</address_city>
+        <address>A.Struga 13-21 (wejście od ul. Chemików)</address>
+        <order_amount_brutto>342.00</order_amount_brutto>
+        <rows>
+            <row>
+                <name>Płaszcz zimowy myMo L</name>
+                <products_id>169441916</products_id>
+                <products_ean>4065804065200</products_ean>
+                <products_sku></products_sku>
+                <auction_id>12927246712</auction_id>
+                <item_price_brutto>342.00</item_price_brutto>
+                <quantity>1</quantity>
+                <amount_brutto>342</amount_brutto>
+                <vat_rate>23.00</vat_rate>
+                <symkar>169441916</symkar>
+                <date_add></date_add>
+            </row>
+        </rows>
+    </order>
+    <order orderSource="allegro">
+        <order_id>74159059</order_id>
+        <date_add>30.11.2022 18:40:40</date_add>
+        <payment_name>Przelewy24</payment_name>
+        <payment_status>1</payment_status>
+        <payment_paid>162</payment_paid>
+        <delivery_type>Allegro Paczkomaty InPost</delivery_type>
+        <delivery_price>0</delivery_price>
+        <buyer_comments></buyer_comments>
+        <seller_comments></seller_comments>
+        <client_login>krzysiek20081</client_login>
+        <client_email>7ud8jt3n9v+37a8c9e33@allegromail.pl</client_email>
+        <client_phone>+48507626414</client_phone>
+        <client_name>Mateusz Grobara</client_name>
+        <client_company></client_company>
+        <client_nip></client_nip>
+        <client_postal>42-713</client_postal>
+        <client_city>Kochanowice</client_city>
+        <client_address>Częstochowska 9</client_address>
+        <client_want_invoice>0</client_want_invoice>
+        <address_name>Mateusz Grobara</address_name>
+        <address_company></address_company>
+        <address_country>Polska</address_country>
+        <address_country_code>PL</address_country_code>
+        <address_box_machine>KCH01M</address_box_machine>
+        <address_pni>KCH01M</address_pni>
+        <address_postal>42-713</address_postal>
+        <address_city>Kochanowice</address_city>
+        <address>Częstochowska 9</address>
+        <order_amount_brutto>162.00</order_amount_brutto>
+        <rows>
+            <row>
+                <name>5 PACK - Boxer shorts DreiMaster L</name>
+                <products_id>169461179</products_id>
+                <products_ean>4063523845332</products_ean>
+                <products_sku></products_sku>
+                <auction_id>12940428690</auction_id>
+                <item_price_brutto>162.00</item_price_brutto>
+                <quantity>1</quantity>
+                <amount_brutto>162</amount_brutto>
+                <vat_rate>23.00</vat_rate>
+                <symkar>169461179</symkar>
+                <date_add></date_add>
+            </row>
+        </rows>
+    </order>
+    <order orderSource="allegro">
+        <order_id>74177044</order_id>
+        <date_add>30.11.2022 19:46:33</date_add>
+        <payment_name>PayU</payment_name>
+        <payment_status>1</payment_status>
+        <payment_paid>492</payment_paid>
+        <delivery_type>Allegro Paczkomaty InPost</delivery_type>
+        <delivery_price>0</delivery_price>
+        <buyer_comments></buyer_comments>
+        <seller_comments></seller_comments>
+        <client_login>default_nick</client_login>
+        <client_email>gy310369fy+1406982b1@allegromail.pl</client_email>
+        <client_phone>+48885521257</client_phone>
+        <client_name>Mateusz Kucharski</client_name>
+        <client_company></client_company>
+        <client_nip></client_nip>
+        <client_postal>31-867</client_postal>
+        <client_city>Kraków</client_city>
+        <client_address>2 pułku lotniczego 9/152</client_address>
+        <client_want_invoice>0</client_want_invoice>
+        <address_name>Mateusz Kucharski</address_name>
+        <address_company></address_company>
+        <address_country>Polska</address_country>
+        <address_country_code>PL</address_country_code>
+        <address_box_machine>KRA16M</address_box_machine>
+        <address_pni>KRA16M</address_pni>
+        <address_postal>31-867</address_postal>
+        <address_city>Kraków</address_city>
+        <address>2 pułku lotniczego 9/152</address>
+        <order_amount_brutto>492.00</order_amount_brutto>
+        <rows>
+            <row>
+                <name>Kurtka zimowa Schmuddelwedda L</name>
+                <products_id>169459871</products_id>
+                <products_ean>4063523733547</products_ean>
+                <products_sku></products_sku>
+                <auction_id>12926376463</auction_id>
+                <item_price_brutto>492.00</item_price_brutto>
+                <quantity>1</quantity>
+                <amount_brutto>492</amount_brutto>
+                <vat_rate>23.00</vat_rate>
+                <symkar>169459871</symkar>
+                <date_add></date_add>
+            </row>
+        </rows>
+    </order>
+    <order orderSource="allegro">
+        <order_id>74200610</order_id>
+        <date_add>30.11.2022 21:07:19</date_add>
+        <payment_name>PayU</payment_name>
+        <payment_status>1</payment_status>
+        <payment_paid>237.6</payment_paid>
+        <delivery_type>Allegro Paczkomaty InPost</delivery_type>
+        <delivery_price>0</delivery_price>
+        <buyer_comments></buyer_comments>
+        <seller_comments></seller_comments>
+        <client_login>nikolae1981</client_login>
+        <client_email>yxjnjpgjlu+7d24c7b40@allegromail.pl</client_email>
+        <client_phone>+48696159528</client_phone>
+        <client_name>mikołaj lewandowski</client_name>
+        <client_company></client_company>
+        <client_nip></client_nip>
+        <client_postal>60-687</client_postal>
+        <client_city>poznań</client_city>
+        <client_address>os Stefana Batorego 48/7</client_address>
+        <client_want_invoice>0</client_want_invoice>
+        <address_name>mikołaj lewandowski</address_name>
+        <address_company></address_company>
+        <address_country>Polska</address_country>
+        <address_country_code>PL</address_country_code>
+        <address_box_machine>POZ257M</address_box_machine>
+        <address_pni>POZ257M</address_pni>
+        <address_postal>60-687</address_postal>
+        <address_city>poznań</address_city>
+        <address>os Stefana Batorego 48/7</address>
+        <order_amount_brutto>237.00</order_amount_brutto>
+        <rows>
+            <row>
+                <name>Bluza Schmuddelwedda M</name>
+                <products_id>169438945</products_id>
+                <products_ean>4063523607770</products_ean>
+                <products_sku></products_sku>
+                <auction_id>12940624929</auction_id>
+                <item_price_brutto>237.60</item_price_brutto>
+                <quantity>1</quantity>
+                <amount_brutto>237.6</amount_brutto>
+                <vat_rate>23.00</vat_rate>
+                <symkar>169438945</symkar>
+                <date_add></date_add>
+            </row>
+        </rows>
+    </order>
+    <order orderSource="allegro">
+        <order_id>74391923</order_id>
+        <date_add>01.12.2022 15:06:08</date_add>
+        <payment_name>PayU</payment_name>
+        <payment_status>1</payment_status>
+        <payment_paid>300</payment_paid>
+        <delivery_type>Allegro Paczkomaty InPost</delivery_type>
+        <delivery_price>0</delivery_price>
+        <buyer_comments></buyer_comments>
+        <seller_comments></seller_comments>
+        <client_login>romano668</client_login>
+        <client_email>s2wtw3djgx+680758ce1@allegromail.pl</client_email>
+        <client_phone>+48509124177</client_phone>
+        <client_name>Roman Byrdziak</client_name>
+        <client_company>Roman Byrdziak Consulting</client_company>
+        <client_nip></client_nip>
+        <client_postal>43-300</client_postal>
+        <client_city>Bielsko Biała</client_city>
+        <client_address>Sarni Stok 83/11</client_address>
+        <client_want_invoice>0</client_want_invoice>
+        <address_name>Roman Byrdziak</address_name>
+        <address_company>Roman Byrdziak Consulting</address_company>
+        <address_country>Polska</address_country>
+        <address_country_code>PL</address_country_code>
+        <address_box_machine>BBI65M</address_box_machine>
+        <address_pni>BBI65M</address_pni>
+        <address_postal>43-300</address_postal>
+        <address_city>Bielsko Biała</address_city>
+        <address>Sarni Stok 83/11</address>
+        <order_amount_brutto>300.00</order_amount_brutto>
+        <rows>
+            <row>
+                <name>Kurtka funkcyjna Schmuddelwedda XS</name>
+                <products_id>169436173</products_id>
+                <products_ean>4063523516089</products_ean>
+                <products_sku></products_sku>
+                <auction_id>12917685724</auction_id>
+                <item_price_brutto>300.00</item_price_brutto>
+                <quantity>1</quantity>
+                <amount_brutto>300</amount_brutto>
+                <vat_rate>23.00</vat_rate>
+                <symkar>169436173</symkar>
+                <date_add></date_add>
+            </row>
+        </rows>
+    </order>
+    <order orderSource="allegro">
+        <order_id>74522589</order_id>
+        <date_add>01.12.2022 22:57:33</date_add>
+        <payment_name>Przelewy24</payment_name>
+        <payment_status>1</payment_status>
+        <payment_paid>402</payment_paid>
+        <delivery_type>Allegro Paczkomaty InPost</delivery_type>
+        <delivery_price>0</delivery_price>
+        <buyer_comments></buyer_comments>
+        <seller_comments></seller_comments>
+        <client_login>meg83</client_login>
+        <client_email>s285um0905+706804645@allegromail.pl</client_email>
+        <client_phone>+48887862126</client_phone>
+        <client_name>Magdalena Chudzik</client_name>
+        <client_company></client_company>
+        <client_nip></client_nip>
+        <client_postal>31-861</client_postal>
+        <client_city>Kraków</client_city>
+        <client_address>Osiedle Niepodległości 7/29</client_address>
+        <client_want_invoice>0</client_want_invoice>
+        <address_name>Magdalena Chudzik</address_name>
+        <address_company></address_company>
+        <address_country>Polska</address_country>
+        <address_country_code>PL</address_country_code>
+        <address_box_machine>KRA04AP</address_box_machine>
+        <address_pni>KRA04AP</address_pni>
+        <address_postal>31-861</address_postal>
+        <address_city>Kraków</address_city>
+        <address>Osiedle Niepodległości 7/29</address>
+        <order_amount_brutto>402.00</order_amount_brutto>
+        <rows>
+            <row>
+                <name>Kurtka zimowa usha XL</name>
+                <products_id>169454902</products_id>
+                <products_ean>4065804087318</products_ean>
+                <products_sku></products_sku>
+                <auction_id>12926029048</auction_id>
+                <item_price_brutto>402.00</item_price_brutto>
+                <quantity>1</quantity>
+                <amount_brutto>402</amount_brutto>
+                <vat_rate>23.00</vat_rate>
+                <symkar>169454902</symkar>
+                <date_add></date_add>
+            </row>
+        </rows>
+    </order>
+    <order orderSource="allegro">
+        <order_id>74747233</order_id>
+        <date_add>02.12.2022 21:41:22</date_add>
+        <payment_name>Przelewy24</payment_name>
+        <payment_status>1</payment_status>
+        <payment_paid>392.4</payment_paid>
+        <delivery_type>Allegro Paczkomaty InPost</delivery_type>
+        <delivery_price>0</delivery_price>
+        <buyer_comments></buyer_comments>
+        <seller_comments></seller_comments>
+        <client_login>niktciekawy</client_login>
+        <client_email>zryf6upmjy+42bf67779@allegromail.pl</client_email>
+        <client_phone>+48609427573</client_phone>
+        <client_name>Ewelina Owsianik</client_name>
+        <client_company></client_company>
+        <client_nip></client_nip>
+        <client_postal>38-606</client_postal>
+        <client_city>Baligród</client_city>
+        <client_address>Mchawa 151</client_address>
+        <client_want_invoice>0</client_want_invoice>
+        <address_name>Ewelina Owsianik</address_name>
+        <address_company></address_company>
+        <address_country>Polska</address_country>
+        <address_country_code>PL</address_country_code>
+        <address_box_machine>BGR01M</address_box_machine>
+        <address_pni>BGR01M</address_pni>
+        <address_postal>38-606</address_postal>
+        <address_city>Baligród</address_city>
+        <address>Mchawa 151</address>
+        <order_amount_brutto>392.00</order_amount_brutto>
+        <rows>
+            <row>
+                <name>Płaszcz zimowy myMo L</name>
+                <products_id>169442073</products_id>
+                <products_ean>4065804085758</products_ean>
+                <products_sku></products_sku>
+                <auction_id>12927249555</auction_id>
+                <item_price_brutto>392.40</item_price_brutto>
+                <quantity>1</quantity>
+                <amount_brutto>392.4</amount_brutto>
+                <vat_rate>23.00</vat_rate>
+                <symkar>169442073</symkar>
+                <date_add></date_add>
+            </row>
+        </rows>
+    </order>
+    <order orderSource="allegro">
+        <order_id>74961598</order_id>
+        <date_add>04.12.2022 04:56:07</date_add>
+        <payment_name>PayU</payment_name>
+        <payment_status>1</payment_status>
+        <payment_paid>336</payment_paid>
+        <delivery_type>Allegro Paczkomaty InPost</delivery_type>
+        <delivery_price>0</delivery_price>
+        <buyer_comments></buyer_comments>
+        <seller_comments></seller_comments>
+        <client_login>P3008</client_login>
+        <client_email>trlbml133h+b4a54aa4@allegromail.pl</client_email>
+        <client_phone>+48509818072</client_phone>
+        <client_name>Paweł Kasicki</client_name>
+        <client_company></client_company>
+        <client_nip></client_nip>
+        <client_postal>83-400</client_postal>
+        <client_city>Kościerzyna</client_city>
+        <client_address>Klasztorna 14a</client_address>
+        <client_want_invoice>0</client_want_invoice>
+        <address_name>Paweł Kasicki</address_name>
+        <address_company></address_company>
+        <address_country>Polska</address_country>
+        <address_country_code>PL</address_country_code>
+        <address_box_machine>KSO04M</address_box_machine>
+        <address_pni>KSO04M</address_pni>
+        <address_postal>83-400</address_postal>
+        <address_city>Kościerzyna</address_city>
+        <address>Klasztorna 14a</address>
+        <order_amount_brutto>336.00</order_amount_brutto>
+        <rows>
+            <row>
+                <name>Kurtka przeciwdeszczowa Schmuddelwedda L</name>
+                <products_id>169459971</products_id>
+                <products_ean>4063523646731</products_ean>
+                <products_sku></products_sku>
+                <auction_id>12927149728</auction_id>
+                <item_price_brutto>336.00</item_price_brutto>
+                <quantity>1</quantity>
+                <amount_brutto>336</amount_brutto>
+                <vat_rate>23.00</vat_rate>
+                <symkar>169459971</symkar>
+                <date_add></date_add>
+            </row>
+        </rows>
+    </order>
+    <order orderSource="allegro">
+        <order_id>75028937</order_id>
+        <date_add>04.12.2022 13:16:49</date_add>
+        <payment_name>PayU</payment_name>
+        <payment_status>1</payment_status>
+        <payment_paid>342</payment_paid>
+        <delivery_type>Allegro Paczkomaty InPost</delivery_type>
+        <delivery_price>0</delivery_price>
+        <buyer_comments></buyer_comments>
+        <seller_comments></seller_comments>
+        <client_login>P3008</client_login>
+        <client_email>trlbml133h+1f1beeb93@allegromail.pl</client_email>
+        <client_phone>+48509818072</client_phone>
+        <client_name>Paweł Kasicki</client_name>
+        <client_company></client_company>
+        <client_nip></client_nip>
+        <client_postal>83-400</client_postal>
+        <client_city>Kościerzyna</client_city>
+        <client_address>Klasztorna 14a</client_address>
+        <client_want_invoice>0</client_want_invoice>
+        <address_name>Paweł Kasicki</address_name>
+        <address_company></address_company>
+        <address_country>Polska</address_country>
+        <address_country_code>PL</address_country_code>
+        <address_box_machine>KSO04M</address_box_machine>
+        <address_pni>KSO04M</address_pni>
+        <address_postal>83-400</address_postal>
+        <address_city>Kościerzyna</address_city>
+        <address>Klasztorna 14a</address>
+        <order_amount_brutto>342.00</order_amount_brutto>
+        <rows>
+            <row>
+                <name>Kurtka przeciwdeszczowa Schmuddelwedda L</name>
+                <products_id>169459974</products_id>
+                <products_ean>4063523646755</products_ean>
+                <products_sku></products_sku>
+                <auction_id>12927150020</auction_id>
+                <item_price_brutto>342.00</item_price_brutto>
+                <quantity>1</quantity>
+                <amount_brutto>342</amount_brutto>
+                <vat_rate>23.00</vat_rate>
+                <symkar>169459974</symkar>
+                <date_add></date_add>
+            </row>
+        </rows>
+    </order>
+    <order orderSource="allegro">
+        <order_id>75154648</order_id>
+        <date_add>04.12.2022 20:23:54</date_add>
+        <payment_name>Przelewy24</payment_name>
+        <payment_status>1</payment_status>
+        <payment_paid>336</payment_paid>
+        <delivery_type>Allegro Paczkomaty InPost</delivery_type>
+        <delivery_price>0</delivery_price>
+        <buyer_comments></buyer_comments>
+        <seller_comments></seller_comments>
+        <client_login>jerzy-k50557</client_login>
+        <client_email>6p8fy26wid+46a1c4b4@allegromail.pl</client_email>
+        <client_phone>+48601985718</client_phone>
+        <client_name>Jerzy Karpęcki</client_name>
+        <client_company></client_company>
+        <client_nip></client_nip>
+        <client_postal>32-541</client_postal>
+        <client_city>Trzebinia</client_city>
+        <client_address>Czyżówka,Olkuska4</client_address>
+        <client_want_invoice>0</client_want_invoice>
+        <address_name>Jerzy Karpęcki</address_name>
+        <address_company></address_company>
+        <address_country>Polska</address_country>
+        <address_country_code>PL</address_country_code>
+        <address_box_machine>TRZ03M</address_box_machine>
+        <address_pni>TRZ03M</address_pni>
+        <address_postal>32-541</address_postal>
+        <address_city>Trzebinia</address_city>
+        <address>Czyżówka,Olkuska4</address>
+        <order_amount_brutto>336.00</order_amount_brutto>
+        <rows>
+            <row>
+                <name>Kurtka przejściowa M</name>
+                <products_id>169444427</products_id>
+                <products_ean>4065804067518</products_ean>
+                <products_sku></products_sku>
+                <auction_id>12925398576</auction_id>
+                <item_price_brutto>336.00</item_price_brutto>
+                <quantity>1</quantity>
+                <amount_brutto>336</amount_brutto>
+                <vat_rate>23.00</vat_rate>
+                <symkar>169444427</symkar>
+                <date_add></date_add>
+            </row>
+        </rows>
+    </order>
+    <order orderSource="allegro">
+        <order_id>75272326</order_id>
+        <date_add>05.12.2022 09:34:54</date_add>
+        <payment_name>PayU</payment_name>
+        <payment_status>1</payment_status>
+        <payment_paid>322.8</payment_paid>
+        <delivery_type>Allegro Kurier DPD</delivery_type>
+        <delivery_price>0</delivery_price>
+        <buyer_comments></buyer_comments>
+        <seller_comments></seller_comments>
+        <client_login>podulandia_pl</client_login>
+        <client_email>le33k3gnak+61f8f41@allegromail.pl</client_email>
+        <client_phone>+48608206909</client_phone>
+        <client_name>HONORATA KLIMECKA</client_name>
+        <client_company>HMK HONORATA KLIMECKA</client_company>
+        <client_nip></client_nip>
+        <client_postal>62-004</client_postal>
+        <client_city>KLINY</client_city>
+        <client_address>UL. CICHA, 5A</client_address>
+        <client_want_invoice>0</client_want_invoice>
+        <address_name>HONORATA KLIMECKA</address_name>
+        <address_company>HMK HONORATA KLIMECKA</address_company>
+        <address_country>Polska</address_country>
+        <address_country_code>PL</address_country_code>
+        <address_box_machine></address_box_machine>
+        <address_pni></address_pni>
+        <address_postal>62-004</address_postal>
+        <address_city>KLINY</address_city>
+        <address>UL. CICHA, 5A</address>
+        <order_amount_brutto>322.00</order_amount_brutto>
+        <rows>
+            <row>
+                <name>Długa kurtka przeciwdeszczowa Schmuddelwedda XXL</name>
+                <products_id>161617301</products_id>
+                <products_ean>4063523741337</products_ean>
+                <products_sku></products_sku>
+                <auction_id>12946291723</auction_id>
+                <item_price_brutto>322.80</item_price_brutto>
+                <quantity>1</quantity>
+                <amount_brutto>322.8</amount_brutto>
+                <vat_rate>23.00</vat_rate>
+                <symkar>161617301</symkar>
+                <date_add></date_add>
+            </row>
+        </rows>
+    </order>
+    <order orderSource="allegro">
+        <order_id>75438911</order_id>
+        <date_add>05.12.2022 18:30:37</date_add>
+        <payment_name>Przelewy24</payment_name>
+        <payment_status>1</payment_status>
+        <payment_paid>432</payment_paid>
+        <delivery_type>Allegro Paczkomaty InPost</delivery_type>
+        <delivery_price>0</delivery_price>
+        <buyer_comments></buyer_comments>
+        <seller_comments></seller_comments>
+        <client_login>Daku1</client_login>
+        <client_email>orjtjja58w+5e97de221@allegromail.pl</client_email>
+        <client_phone>+48515448848</client_phone>
+        <client_name>Dariusz Kula</client_name>
+        <client_company></client_company>
+        <client_nip></client_nip>
+        <client_postal>38-400</client_postal>
+        <client_city>Krosno</client_city>
+        <client_address>Korczyńska 25/14</client_address>
+        <client_want_invoice>0</client_want_invoice>
+        <address_name>Dariusz Kula</address_name>
+        <address_company></address_company>
+        <address_country>Polska</address_country>
+        <address_country_code>PL</address_country_code>
+        <address_box_machine>KRO04N</address_box_machine>
+        <address_pni>KRO04N</address_pni>
+        <address_postal>38-400</address_postal>
+        <address_city>Krosno</address_city>
+        <address>Korczyńska 25/14</address>
+        <order_amount_brutto>432.00</order_amount_brutto>
+        <rows>
+            <row>
+                <name>Kurtka ICEBOUND M</name>
+                <products_id>169452820</products_id>
+                <products_ean>4063523654828</products_ean>
+                <products_sku></products_sku>
+                <auction_id>12925874863</auction_id>
+                <item_price_brutto>432.00</item_price_brutto>
+                <quantity>1</quantity>
+                <amount_brutto>432</amount_brutto>
+                <vat_rate>23.00</vat_rate>
+                <symkar>169452820</symkar>
+                <date_add></date_add>
+            </row>
+        </rows>
+    </order>
+    <order orderSource="allegro">
+        <order_id>75562083</order_id>
+        <date_add>06.12.2022 06:37:44</date_add>
+        <payment_name>PayU</payment_name>
+        <payment_status>1</payment_status>
+        <payment_paid>342</payment_paid>
+        <delivery_type>Allegro Paczkomaty InPost</delivery_type>
+        <delivery_price>0</delivery_price>
+        <buyer_comments></buyer_comments>
+        <seller_comments></seller_comments>
+        <client_login>P3008</client_login>
+        <client_email>trlbml133h+40a3bd022@allegromail.pl</client_email>
+        <client_phone>+48509818072</client_phone>
+        <client_name>Paweł Kasicki</client_name>
+        <client_company></client_company>
+        <client_nip></client_nip>
+        <client_postal>83-400</client_postal>
+        <client_city>Kościerzyna</client_city>
+        <client_address>Klasztorna 14a</client_address>
+        <client_want_invoice>0</client_want_invoice>
+        <address_name>Paweł Kasicki</address_name>
+        <address_company></address_company>
+        <address_country>Polska</address_country>
+        <address_country_code>PL</address_country_code>
+        <address_box_machine>KSO04M</address_box_machine>
+        <address_pni>KSO04M</address_pni>
+        <address_postal>83-400</address_postal>
+        <address_city>Kościerzyna</address_city>
+        <address>Klasztorna 14a</address>
+        <order_amount_brutto>342.00</order_amount_brutto>
+        <rows>
+            <row>
+                <name>Kurtka przeciwdeszczowa Schmuddelwedda BLACK XL</name>
+                <products_id>161617383</products_id>
+                <products_ean>4063523646656</products_ean>
+                <products_sku></products_sku>
+                <auction_id>12944338659</auction_id>
+                <item_price_brutto>342.00</item_price_brutto>
+                <quantity>1</quantity>
+                <amount_brutto>342</amount_brutto>
+                <vat_rate>0.00</vat_rate>
+                <symkar>161617383</symkar>
+                <date_add></date_add>
+            </row>
+        </rows>
+    </order>
+    <order orderSource="allegro">
+        <order_id>75930612</order_id>
+        <date_add>07.12.2022 11:10:24</date_add>
+        <payment_name>Przelewy24</payment_name>
+        <payment_status>1</payment_status>
+        <payment_paid>380.99</payment_paid>
+        <delivery_type>Allegro Paczkomaty InPost</delivery_type>
+        <delivery_price>8.99</delivery_price>
+        <buyer_comments></buyer_comments>
+        <seller_comments></seller_comments>
+        <client_login>Client:50482718</client_login>
+        <client_email>si78acxk23+4444c00e9@allegromail.pl</client_email>
+        <client_phone>+48579311410</client_phone>
+        <client_name>Monika Hagemann</client_name>
+        <client_company></client_company>
+        <client_nip></client_nip>
+        <client_postal>16-420</client_postal>
+        <client_city>Raczki</client_city>
+        <client_address>Plac Kościuszki 9</client_address>
+        <client_want_invoice>0</client_want_invoice>
+        <address_name>Monika Hagemann</address_name>
+        <address_company></address_company>
+        <address_country>Polska</address_country>
+        <address_country_code>PL</address_country_code>
+        <address_box_machine>RCK01N</address_box_machine>
+        <address_pni>RCK01N</address_pni>
+        <address_postal>16-420</address_postal>
+        <address_city>Raczki</address_city>
+        <address>Plac Kościuszki 9</address>
+        <order_amount_brutto>372.00</order_amount_brutto>
+        <rows>
+            <row>
+                <name>Kurtka przeciwdeszczowa Schmuddelwedda XL</name>
+                <products_id>169476023</products_id>
+                <products_ean>4063523238196</products_ean>
+                <products_sku></products_sku>
+                <auction_id>12927216094</auction_id>
+                <item_price_brutto>372.00</item_price_brutto>
+                <quantity>1</quantity>
+                <amount_brutto>372</amount_brutto>
+                <vat_rate>23.00</vat_rate>
+                <symkar>169476023</symkar>
+                <date_add></date_add>
+            </row>
+        </rows>
+    </order>
+    <order orderSource="allegro">
+        <order_id>76187941</order_id>
+        <date_add>08.12.2022 07:36:14</date_add>
+        <payment_name>Przelewy24</payment_name>
+        <payment_status>1</payment_status>
+        <payment_paid>410.99</payment_paid>
+        <delivery_type>Allegro Paczkomaty InPost</delivery_type>
+        <delivery_price>8.99</delivery_price>
+        <buyer_comments></buyer_comments>
+        <seller_comments></seller_comments>
+        <client_login>Client:82524455</client_login>
+        <client_email>umi13tbt96+5b0dc3f23@allegromail.pl</client_email>
+        <client_phone>+48506285810</client_phone>
+        <client_name>Mariusz Pancerz</client_name>
+        <client_company></client_company>
+        <client_nip></client_nip>
+        <client_postal>41-250</client_postal>
+        <client_city>Czeladź</client_city>
+        <client_address>Niepodległości 22d/52</client_address>
+        <client_want_invoice>0</client_want_invoice>
+        <address_name>Mariusz Pancerz</address_name>
+        <address_company></address_company>
+        <address_country>Polska</address_country>
+        <address_country_code>PL</address_country_code>
+        <address_box_machine>CLD01M</address_box_machine>
+        <address_pni>CLD01M</address_pni>
+        <address_postal>41-250</address_postal>
+        <address_city>Czeladź</address_city>
+        <address>Niepodległości 22d/52</address>
+        <order_amount_brutto>402.00</order_amount_brutto>
+        <rows>
+            <row>
+                <name>Kurtka zimowa ICEBOUND L</name>
+                <products_id>169452727</products_id>
+                <products_ean>4063523762530</products_ean>
+                <products_sku></products_sku>
+                <auction_id>12925856359</auction_id>
+                <item_price_brutto>402.00</item_price_brutto>
+                <quantity>1</quantity>
+                <amount_brutto>402</amount_brutto>
+                <vat_rate>23.00</vat_rate>
+                <symkar>169452727</symkar>
+                <date_add></date_add>
+            </row>
+        </rows>
+    </order>
+    <order orderSource="allegro">
+        <order_id>76525386</order_id>
+        <date_add>09.12.2022 10:02:05</date_add>
+        <payment_name>Przelewy24</payment_name>
+        <payment_status>1</payment_status>
+        <payment_paid>440.99</payment_paid>
+        <delivery_type>Allegro Paczkomaty InPost</delivery_type>
+        <delivery_price>8.99</delivery_price>
+        <buyer_comments></buyer_comments>
+        <seller_comments></seller_comments>
+        <client_login>Daku1</client_login>
+        <client_email>orjtjja58w+778fe8f54@allegromail.pl</client_email>
+        <client_phone>+48515448848</client_phone>
+        <client_name>Dariusz Kula</client_name>
+        <client_company></client_company>
+        <client_nip></client_nip>
+        <client_postal>38-400</client_postal>
+        <client_city>Krosno</client_city>
+        <client_address>Korczyńska 25/14</client_address>
+        <client_want_invoice>0</client_want_invoice>
+        <address_name>Dariusz Kula</address_name>
+        <address_company></address_company>
+        <address_country>Polska</address_country>
+        <address_country_code>PL</address_country_code>
+        <address_box_machine>KRO04N</address_box_machine>
+        <address_pni>KRO04N</address_pni>
+        <address_postal>38-400</address_postal>
+        <address_city>Krosno</address_city>
+        <address>Korczyńska 25/14</address>
+        <order_amount_brutto>432.00</order_amount_brutto>
+        <rows>
+            <row>
+                <name>Kurtka ICEBOUND S</name>
+                <products_id>169452825</products_id>
+                <products_ean>4063523654842</products_ean>
+                <products_sku></products_sku>
+                <auction_id>12925875511</auction_id>
+                <item_price_brutto>432.00</item_price_brutto>
+                <quantity>1</quantity>
+                <amount_brutto>432</amount_brutto>
+                <vat_rate>23.00</vat_rate>
+                <symkar>169452825</symkar>
+                <date_add></date_add>
+            </row>
+        </rows>
+    </order>
+    <order orderSource="allegro">
+        <order_id>76689194</order_id>
+        <date_add>09.12.2022 20:05:01</date_add>
+        <payment_name>Przelewy24</payment_name>
+        <payment_status>1</payment_status>
+        <payment_paid>401.39</payment_paid>
+        <delivery_type>Allegro Paczkomaty InPost</delivery_type>
+        <delivery_price>8.99</delivery_price>
+        <buyer_comments></buyer_comments>
+        <seller_comments></seller_comments>
+        <client_login>JAV0</client_login>
+        <client_email>x6x3kgjxx9+65e66bce2@allegromail.pl</client_email>
+        <client_phone>+48694463551</client_phone>
+        <client_name>Szymon Mikołajewski</client_name>
+        <client_company></client_company>
+        <client_nip></client_nip>
+        <client_postal>58-100</client_postal>
+        <client_city>Świdnica</client_city>
+        <client_address>B.Krzywoustego 9/7</client_address>
+        <client_want_invoice>0</client_want_invoice>
+        <address_name>Szymon Mikołajewski</address_name>
+        <address_company></address_company>
+        <address_country>Polska</address_country>
+        <address_country_code>PL</address_country_code>
+        <address_box_machine>SWI15M</address_box_machine>
+        <address_pni>SWI15M</address_pni>
+        <address_postal>58-100</address_postal>
+        <address_city>Świdnica</address_city>
+        <address>B.Krzywoustego 9/7</address>
+        <order_amount_brutto>392.00</order_amount_brutto>
+        <rows>
+            <row>
+                <name>Bawełniana kurtka przejściowa DreiMaster M</name>
+                <products_id>169440659</products_id>
+                <products_ean>4063523887769</products_ean>
+                <products_sku></products_sku>
+                <auction_id>12918183759</auction_id>
+                <item_price_brutto>392.40</item_price_brutto>
+                <quantity>1</quantity>
+                <amount_brutto>392.4</amount_brutto>
+                <vat_rate>23.00</vat_rate>
+                <symkar>169440659</symkar>
+                <date_add></date_add>
+            </row>
+        </rows>
+    </order>
+    <order orderSource="allegro">
+        <order_id>76720353</order_id>
+        <date_add>09.12.2022 21:56:36</date_add>
+        <payment_name>PayU</payment_name>
+        <payment_status>1</payment_status>
+        <payment_paid>246.59</payment_paid>
+        <delivery_type>Allegro Paczkomaty InPost</delivery_type>
+        <delivery_price>8.99</delivery_price>
+        <buyer_comments></buyer_comments>
+        <seller_comments></seller_comments>
+        <client_login>gunnare1</client_login>
+        <client_email>hfuxzveg2p+519d6e3e5@allegromail.pl</client_email>
+        <client_phone>+48501460729</client_phone>
+        <client_name>Robert Piszcz</client_name>
+        <client_company></client_company>
+        <client_nip></client_nip>
+        <client_postal>44-230</client_postal>
+        <client_city>Czerwionka</client_city>
+        <client_address>Cicha 2a</client_address>
+        <client_want_invoice>0</client_want_invoice>
+        <address_name>Robert Piszcz</address_name>
+        <address_company></address_company>
+        <address_country>Polska</address_country>
+        <address_country_code>PL</address_country_code>
+        <address_box_machine>CZL01M</address_box_machine>
+        <address_pni>CZL01M</address_pni>
+        <address_postal>44-230</address_postal>
+        <address_city>Czerwionka</address_city>
+        <address>Cicha 2a</address>
+        <order_amount_brutto>237.00</order_amount_brutto>
+        <rows>
+            <row>
+                <name>Bluza Schmuddelwedda L</name>
+                <products_id>169439017</products_id>
+                <products_ean>4063523615560</products_ean>
+                <products_sku></products_sku>
+                <auction_id>12942165018</auction_id>
+                <item_price_brutto>237.60</item_price_brutto>
+                <quantity>1</quantity>
+                <amount_brutto>237.6</amount_brutto>
+                <vat_rate>23.00</vat_rate>
+                <symkar>169439017</symkar>
+                <date_add></date_add>
+            </row>
+        </rows>
+    </order>
+    <order orderSource="allegro">
+        <order_id>76882963</order_id>
+        <date_add>10.12.2022 17:29:54</date_add>
+        <payment_name>Przelewy24</payment_name>
+        <payment_status>1</payment_status>
+        <payment_paid>317.39</payment_paid>
+        <delivery_type>Allegro Paczkomaty InPost</delivery_type>
+        <delivery_price>8.99</delivery_price>
+        <buyer_comments></buyer_comments>
+        <seller_comments></seller_comments>
+        <client_login>miliona13</client_login>
+        <client_email>6d4szomv1w+786c7d262@allegromail.pl</client_email>
+        <client_phone>+48696289286</client_phone>
+        <client_name>Milena Sawa Dziemdziora</client_name>
+        <client_company></client_company>
+        <client_nip></client_nip>
+        <client_postal>85-836</client_postal>
+        <client_city>Bydgoszcz</client_city>
+        <client_address>Filmowa 1B /24</client_address>
+        <client_want_invoice>1</client_want_invoice>
+        <address_name>Milena Sawa-Dziemdziora</address_name>
+        <address_company></address_company>
+        <address_country>Polska</address_country>
+        <address_country_code>PL</address_country_code>
+        <address_box_machine>BYD06N</address_box_machine>
+        <address_pni>BYD06N</address_pni>
+        <address_postal>85-836</address_postal>
+        <address_city>Bydgoszcz</address_city>
+        <address>Filmowa 1b /24</address>
+        <order_amount_brutto>308.00</order_amount_brutto>
+        <rows>
+            <row>
+                <name>Kurtka przeciwdeszczowa Schmuddelwedda M</name>
+                <products_id>161617283</products_id>
+                <products_ean>4063523740774</products_ean>
+                <products_sku></products_sku>
+                <auction_id>12926717463</auction_id>
+                <item_price_brutto>308.40</item_price_brutto>
+                <quantity>1</quantity>
+                <amount_brutto>308.4</amount_brutto>
+                <vat_rate>23.00</vat_rate>
+                <symkar>161617283</symkar>
+                <date_add></date_add>
+            </row>
+        </rows>
+    </order>
+    <order orderSource="allegro">
+        <order_id>76950911</order_id>
+        <date_add>10.12.2022 21:39:29</date_add>
+        <payment_name>Przelewy24</payment_name>
+        <payment_status>1</payment_status>
+        <payment_paid>230.99</payment_paid>
+        <delivery_type>Allegro Paczkomaty InPost</delivery_type>
+        <delivery_price>8.99</delivery_price>
+        <buyer_comments></buyer_comments>
+        <seller_comments></seller_comments>
+        <client_login>kiki0</client_login>
+        <client_email>ad1pcjreb0+3a597f331@allegromail.pl</client_email>
+        <client_phone>+48500008819</client_phone>
+        <client_name>Jarosław Kwaśniak</client_name>
+        <client_company></client_company>
+        <client_nip></client_nip>
+        <client_postal>33-101</client_postal>
+        <client_city>Tarnów</client_city>
+        <client_address>Staffa 43 a</client_address>
+        <client_want_invoice>0</client_want_invoice>
+        <address_name>Jarosław Kwaśniak</address_name>
+        <address_company></address_company>
+        <address_country>Polska</address_country>
+        <address_country_code>PL</address_country_code>
+        <address_box_machine>TAR32M</address_box_machine>
+        <address_pni>TAR32M</address_pni>
+        <address_postal>33-101</address_postal>
+        <address_city>Tarnów</address_city>
+        <address>Staffa 43 a</address>
+        <order_amount_brutto>222.00</order_amount_brutto>
+        <rows>
+            <row>
+                <name>Sukienka dzianinowa myMo XS/S</name>
+                <products_id>169444013</products_id>
+                <products_ean>4065804228230</products_ean>
+                <products_sku></products_sku>
+                <auction_id>12940242737</auction_id>
+                <item_price_brutto>222.00</item_price_brutto>
+                <quantity>1</quantity>
+                <amount_brutto>222</amount_brutto>
+                <vat_rate>23.00</vat_rate>
+                <symkar>169444013</symkar>
+                <date_add></date_add>
+            </row>
+        </rows>
+    </order>
+    <order orderSource="allegro">
+        <order_id>76979306</order_id>
+        <date_add>10.12.2022 23:35:57</date_add>
+        <payment_name>PayU</payment_name>
+        <payment_status>1</payment_status>
+        <payment_paid>232.19</payment_paid>
+        <delivery_type>Allegro Paczkomaty InPost</delivery_type>
+        <delivery_price>8.99</delivery_price>
+        <buyer_comments></buyer_comments>
+        <seller_comments></seller_comments>
+        <client_login>sanfun</client_login>
+        <client_email>4shcjhrt8s+536eaea69@allegromail.pl</client_email>
+        <client_phone>+48501324129</client_phone>
+        <client_name>sandra Wilim</client_name>
+        <client_company></client_company>
+        <client_nip></client_nip>
+        <client_postal>47-300</client_postal>
+        <client_city>Dąbrówka Górna</client_city>
+        <client_address>polna 10</client_address>
+        <client_want_invoice>0</client_want_invoice>
+        <address_name>sandra Wilim</address_name>
+        <address_company></address_company>
+        <address_country>Polska</address_country>
+        <address_country_code>PL</address_country_code>
+        <address_box_machine>DWG01M</address_box_machine>
+        <address_pni>DWG01M</address_pni>
+        <address_postal>47-300</address_postal>
+        <address_city>Dąbrówka Górna</address_city>
+        <address>polna 10</address>
+        <order_amount_brutto>223.00</order_amount_brutto>
+        <rows>
+            <row>
+                <name>Bluza DreiMaster L</name>
+                <products_id>169440780</products_id>
+                <products_ean>4063523888605</products_ean>
+                <products_sku></products_sku>
+                <auction_id>12925599892</auction_id>
+                <item_price_brutto>223.20</item_price_brutto>
+                <quantity>1</quantity>
+                <amount_brutto>223.2</amount_brutto>
+                <vat_rate>23.00</vat_rate>
+                <symkar>169440780</symkar>
+                <date_add></date_add>
+            </row>
+        </rows>
+    </order>
+    <order orderSource="allegro">
+        <order_id>77156887</order_id>
+        <date_add>11.12.2022 17:03:39</date_add>
+        <payment_name>Przelewy24</payment_name>
+        <payment_status>1</payment_status>
+        <payment_paid>401.39</payment_paid>
+        <delivery_type>Allegro Paczkomaty InPost</delivery_type>
+        <delivery_price>8.99</delivery_price>
+        <buyer_comments></buyer_comments>
+        <seller_comments></seller_comments>
+        <client_login>Client:92367856</client_login>
+        <client_email>fyb4zncr64+15398ca37@allegromail.pl</client_email>
+        <client_phone>+48575403949</client_phone>
+        <client_name>Elżbieta Pisarska-Klimczyk</client_name>
+        <client_company></client_company>
+        <client_nip></client_nip>
+        <client_postal>30-147</client_postal>
+        <client_city>Kraków</client_city>
+        <client_address>Na Błonie 9a/238</client_address>
+        <client_want_invoice>0</client_want_invoice>
+        <address_name>Elżbieta Pisarska-Klimczyk</address_name>
+        <address_company></address_company>
+        <address_country>Polska</address_country>
+        <address_country_code>PL</address_country_code>
+        <address_box_machine>KRA279M</address_box_machine>
+        <address_pni>KRA279M</address_pni>
+        <address_postal>30-147</address_postal>
+        <address_city>Kraków</address_city>
+        <address>Na Błonie 9a/238</address>
+        <order_amount_brutto>392.00</order_amount_brutto>
+        <rows>
+            <row>
+                <name>Płaszcz zimowy myMo XL</name>
+                <products_id>169442085</products_id>
+                <products_ean>4065804085833</products_ean>
+                <products_sku></products_sku>
+                <auction_id>12927252165</auction_id>
+                <item_price_brutto>392.40</item_price_brutto>
+                <quantity>1</quantity>
+                <amount_brutto>392.4</amount_brutto>
+                <vat_rate>23.00</vat_rate>
+                <symkar>169442085</symkar>
+                <date_add></date_add>
+            </row>
+        </rows>
+    </order>
+    <order orderSource="allegro">
+        <order_id>77156891</order_id>
+        <date_add>11.12.2022 17:05:02</date_add>
+        <payment_name>Przelewy24</payment_name>
+        <payment_status>1</payment_status>
+        <payment_paid>440.99</payment_paid>
+        <delivery_type>Allegro Paczkomaty InPost</delivery_type>
+        <delivery_price>8.99</delivery_price>
+        <buyer_comments></buyer_comments>
+        <seller_comments></seller_comments>
+        <client_login>Anusia25121991</client_login>
+        <client_email>wck35azuh2+63a52e4d7@allegromail.pl</client_email>
+        <client_phone>+48531813626</client_phone>
+        <client_name>Anna Wcisło</client_name>
+        <client_company></client_company>
+        <client_nip></client_nip>
+        <client_postal>55-100</client_postal>
+        <client_city>księginice</client_city>
+        <client_address>ul. Trzebnicka 35</client_address>
+        <client_want_invoice>0</client_want_invoice>
+        <address_name>Anna Wcisło</address_name>
+        <address_company></address_company>
+        <address_country>Polska</address_country>
+        <address_country_code>PL</address_country_code>
+        <address_box_machine>KSG01M</address_box_machine>
+        <address_pni>KSG01M</address_pni>
+        <address_postal>55-100</address_postal>
+        <address_city>księginice</address_city>
+        <address>ul. Trzebnicka 35</address>
+        <order_amount_brutto>432.00</order_amount_brutto>
+        <rows>
+            <row>
+                <name>Parka zimowa DreiMaster XL</name>
+                <products_id>169459136</products_id>
+                <products_ean>4063523761649</products_ean>
+                <products_sku></products_sku>
+                <auction_id>12927685120</auction_id>
+                <item_price_brutto>432.00</item_price_brutto>
+                <quantity>1</quantity>
+                <amount_brutto>432</amount_brutto>
+                <vat_rate>23.00</vat_rate>
+                <symkar>169459136</symkar>
+                <date_add></date_add>
+            </row>
+        </rows>
+    </order>
+    <order orderSource="allegro">
+        <order_id>78106035</order_id>
+        <date_add>13.12.2022 21:49:39</date_add>
+        <payment_name>Przelewy24</payment_name>
+        <payment_status>1</payment_status>
+        <payment_paid>344.99</payment_paid>
+        <delivery_type>Allegro Paczkomaty InPost</delivery_type>
+        <delivery_price>8.99</delivery_price>
+        <buyer_comments></buyer_comments>
+        <seller_comments></seller_comments>
+        <client_login>miliona13</client_login>
+        <client_email>6d4szomv1w+17994d9e7@allegromail.pl</client_email>
+        <client_phone>+48696289286</client_phone>
+        <client_name>Milena Sawa Dziemdziora</client_name>
+        <client_company></client_company>
+        <client_nip></client_nip>
+        <client_postal>85-836</client_postal>
+        <client_city>Bydgoszcz</client_city>
+        <client_address>Filmowa 1B /24</client_address>
+        <client_want_invoice>1</client_want_invoice>
+        <address_name>Milena Sawa-Dziemdziora</address_name>
+        <address_company></address_company>
+        <address_country>Polska</address_country>
+        <address_country_code>PL</address_country_code>
+        <address_box_machine>BYD06N</address_box_machine>
+        <address_pni>BYD06N</address_pni>
+        <address_postal>85-836</address_postal>
+        <address_city>Bydgoszcz</address_city>
+        <address>Filmowa 1b /24</address>
+        <order_amount_brutto>336.00</order_amount_brutto>
+        <rows>
+            <row>
+                <name>Kurtka przeciwdeszczowa Schmuddelwedda M</name>
+                <products_id>169436786</products_id>
+                <products_ean>4063523896617</products_ean>
+                <products_sku></products_sku>
+                <auction_id>12918974380</auction_id>
+                <item_price_brutto>336.00</item_price_brutto>
+                <quantity>1</quantity>
+                <amount_brutto>336</amount_brutto>
+                <vat_rate>23.00</vat_rate>
+                <symkar>169436786</symkar>
+                <date_add></date_add>
+            </row>
+        </rows>
+    </order>
+    <order orderSource="allegro">
+        <order_id>78187134</order_id>
+        <date_add>14.12.2022 07:57:21</date_add>
+        <payment_name>Przelewy24</payment_name>
+        <payment_status>1</payment_status>
+        <payment_paid>230.99</payment_paid>
+        <delivery_type>Allegro Paczkomaty InPost</delivery_type>
+        <delivery_price>8.99</delivery_price>
+        <buyer_comments></buyer_comments>
+        <seller_comments></seller_comments>
+        <client_login>jusmalt</client_login>
+        <client_email>jbysat60ad+7255310b9@allegromail.pl</client_email>
+        <client_phone>+48695580610</client_phone>
+        <client_name>JUSTYNA MALTAZAR</client_name>
+        <client_company></client_company>
+        <client_nip></client_nip>
+        <client_postal>41-310</client_postal>
+        <client_city>DĄBROWA GÓRNICZA</client_city>
+        <client_address>UL.LEGIONÓW POLSKICH 103/2</client_address>
+        <client_want_invoice>0</client_want_invoice>
+        <address_name>JUSTYNA MALTAZAR</address_name>
+        <address_company></address_company>
+        <address_country>Polska</address_country>
+        <address_country_code>PL</address_country_code>
+        <address_box_machine>DGO12N</address_box_machine>
+        <address_pni>DGO12N</address_pni>
+        <address_postal>41-310</address_postal>
+        <address_city>DĄBROWA GÓRNICZA</address_city>
+        <address>UL.LEGIONÓW POLSKICH 103/2</address>
+        <order_amount_brutto>222.00</order_amount_brutto>
+        <rows>
+            <row>
+                <name>Sweter z dzianiny Faina XS/S</name>
+                <products_id>169449630</products_id>
+                <products_ean>4065804204432</products_ean>
+                <products_sku></products_sku>
+                <auction_id>12982319021</auction_id>
+                <item_price_brutto>222.00</item_price_brutto>
+                <quantity>1</quantity>
+                <amount_brutto>222</amount_brutto>
+                <vat_rate>23.00</vat_rate>
+                <symkar>169449630</symkar>
+                <date_add></date_add>
+            </row>
+        </rows>
+    </order>
+    <order orderSource="allegro">
+        <order_id>78765231</order_id>
+        <date_add>15.12.2022 16:25:10</date_add>
+        <payment_name>Przelewy24</payment_name>
+        <payment_status>1</payment_status>
+        <payment_paid>246.59</payment_paid>
+        <delivery_type>Allegro Paczkomaty InPost</delivery_type>
+        <delivery_price>8.99</delivery_price>
+        <buyer_comments></buyer_comments>
+        <seller_comments></seller_comments>
+        <client_login>Client:40594111</client_login>
+        <client_email>n60s6db73m+362deb127@allegromail.pl</client_email>
+        <client_phone>+48796738534</client_phone>
+        <client_name>Dominika Ochotna</client_name>
+        <client_company></client_company>
+        <client_nip></client_nip>
+        <client_postal>30-815</client_postal>
+        <client_city>Kraków</client_city>
+        <client_address>Gen. Jasińskiego 34/25</client_address>
+        <client_want_invoice>0</client_want_invoice>
+        <address_name>Dominika Ochotna</address_name>
+        <address_company></address_company>
+        <address_country>Polska</address_country>
+        <address_country_code>PL</address_country_code>
+        <address_box_machine>KRA12M</address_box_machine>
+        <address_pni>KRA12M</address_pni>
+        <address_postal>30-815</address_postal>
+        <address_city>Kraków</address_city>
+        <address>Gen. Jasińskiego 34/25</address>
+        <order_amount_brutto>237.00</order_amount_brutto>
+        <rows>
+            <row>
+                <name>Bluza Schmuddelwedda XL</name>
+                <products_id>169438957</products_id>
+                <products_ean>4063523607930</products_ean>
+                <products_sku></products_sku>
+                <auction_id>12942162946</auction_id>
+                <item_price_brutto>237.60</item_price_brutto>
+                <quantity>1</quantity>
+                <amount_brutto>237.6</amount_brutto>
+                <vat_rate>23.00</vat_rate>
+                <symkar>169438957</symkar>
+                <date_add></date_add>
+            </row>
+        </rows>
+    </order>
+    <order orderSource="allegro">
+        <order_id>78822127</order_id>
+        <date_add>15.12.2022 19:29:37</date_add>
+        <payment_name>Przelewy24</payment_name>
+        <payment_status>1</payment_status>
+        <payment_paid>410.99</payment_paid>
+        <delivery_type>Allegro Paczkomaty InPost</delivery_type>
+        <delivery_price>8.99</delivery_price>
+        <buyer_comments></buyer_comments>
+        <seller_comments></seller_comments>
+        <client_login>dptezet</client_login>
+        <client_email>6aof7g69ot+4ba209592@allegromail.pl</client_email>
+        <client_phone>+48501183636</client_phone>
+        <client_name>Tomasz Zdanowicz</client_name>
+        <client_company></client_company>
+        <client_nip></client_nip>
+        <client_postal>16-010</client_postal>
+        <client_city>Wasilków</client_city>
+        <client_address>Wierzbowa 28</client_address>
+        <client_want_invoice>0</client_want_invoice>
+        <address_name>Tomasz Zdanowicz</address_name>
+        <address_company></address_company>
+        <address_country>Polska</address_country>
+        <address_country_code>PL</address_country_code>
+        <address_box_machine>WAS01ML</address_box_machine>
+        <address_pni>WAS01ML</address_pni>
+        <address_postal>16-010</address_postal>
+        <address_city>Wasilków</address_city>
+        <address>Wierzbowa 28</address>
+        <order_amount_brutto>402.00</order_amount_brutto>
+        <rows>
+            <row>
+                <name>Kurtka Parka zimowa ICEBOUND L</name>
+                <products_id>169443755</products_id>
+                <products_ean>4063523755488</products_ean>
+                <products_sku></products_sku>
+                <auction_id>12918590121</auction_id>
+                <item_price_brutto>402.00</item_price_brutto>
+                <quantity>1</quantity>
+                <amount_brutto>402</amount_brutto>
+                <vat_rate>23.00</vat_rate>
+                <symkar>169443755</symkar>
+                <date_add></date_add>
+            </row>
+        </rows>
+    </order>
+    <order orderSource="allegro">
+        <order_id>79033420</order_id>
+        <date_add>16.12.2022 11:56:35</date_add>
+        <payment_name>Przelewy24</payment_name>
+        <payment_status>1</payment_status>
+        <payment_paid>232.19</payment_paid>
+        <delivery_type>Allegro Paczkomaty InPost</delivery_type>
+        <delivery_price>8.99</delivery_price>
+        <buyer_comments></buyer_comments>
+        <seller_comments></seller_comments>
+        <client_login>mapi_2005</client_login>
+        <client_email>layrspib7l+6b67ee2a3@allegromail.pl</client_email>
+        <client_phone>+48691287888</client_phone>
+        <client_name>Rafał LENIAR</client_name>
+        <client_company></client_company>
+        <client_nip></client_nip>
+        <client_postal>64-733</client_postal>
+        <client_city>Chełst</client_city>
+        <client_address>Chełst 7</client_address>
+        <client_want_invoice>0</client_want_invoice>
+        <address_name>Rafał LENIAR</address_name>
+        <address_company></address_company>
+        <address_country>Polska</address_country>
+        <address_country_code>PL</address_country_code>
+        <address_box_machine>DSK03M</address_box_machine>
+        <address_pni>DSK03M</address_pni>
+        <address_postal>64-733</address_postal>
+        <address_city>Chełst</address_city>
+        <address>Chełst 7</address>
+        <order_amount_brutto>223.00</order_amount_brutto>
+        <rows>
+            <row>
+                <name>Sweter dzianinowy DreiMaster M/L</name>
+                <products_id>169441375</products_id>
+                <products_ean>4066719022869</products_ean>
+                <products_sku></products_sku>
+                <auction_id>12957079387</auction_id>
+                <item_price_brutto>223.20</item_price_brutto>
+                <quantity>1</quantity>
+                <amount_brutto>223.2</amount_brutto>
+                <vat_rate>23.00</vat_rate>
+                <symkar>169441375</symkar>
+                <date_add></date_add>
+            </row>
+        </rows>
+    </order>
+</orders>

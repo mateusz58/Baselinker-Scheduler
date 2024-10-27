@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <order_data>
+    <order_date>29.11.2022 23:06:37</order_date>
+    <tb_id>BL73941299</tb_id>
+    <channel_sign>allegropl</channel_sign>
+    <channel_no></channel_no>
+    <paid>392.40</paid>
+    <approved>1</approved>
+    <item_count>1</item_count>
+    <total_item_amount>392.40</total_item_amount>
+    <date_created>2022-11-29T23:06:37</date_created>
+  </order_data>
+  <sell_to>
+    <tb_id>tbpbw4bzbu+72a0507f8@allegromail.pl</tb_id>
+    <channel_no></channel_no>
+    <firstname>Tomasz</firstname>
+    <lastname>Krawczyk</lastname>
+    <name>Tomasz Krawczyk</name>
+    <street_no>Myjomice 51</street_no>
+    <zip>63-600</zip>
+    <city>Kepno</city>
+    <country>PL</country>
+    <email>tbpbw4bzbu+72a0507f8@allegromail.pl</email>
+  </sell_to>
+  <ship_to>
+    <tb_id>tbpbw4bzbu+72a0507f8@allegromail.pl</tb_id>
+    <channel_no></channel_no>
+    <firstname>Tomasz</firstname>
+    <lastname>Krawczyk</lastname>
+    <name>Tomasz Krawczyk</name>
+    <street_no>Myjomice 51</street_no>
+    <zip>63-600</zip>
+    <city>Kepno</city>
+    <country>PL</country>
+    <email>tbpbw4bzbu+72a0507f8@allegromail.pl</email>
+  </ship_to>
+  <shipment>
+    <price>0</price>
+  </shipment>
+  <payment>
+    <costs>0</costs>
+    <directdebit></directdebit>
+    <type>allegropl</type>
+  </payment>
+  <items>
+    <item>
+      <tb_id>12918199393</tb_id>
+      <channel_id></channel_id>
+      <sku>4063523887905</sku>
+      <channel_sku></channel_sku>
+      <ean>4063523887905</ean>
+      <quantity>1</quantity>
+      <billing_text>Bawełniana kurtka przejściowa DreiMaster XL</billing_text>
+      <item_price>392.40</item_price>
+      <date_created>2022-11-29T23:06:37</date_created>
+    </item>
+  </items>
+</order>

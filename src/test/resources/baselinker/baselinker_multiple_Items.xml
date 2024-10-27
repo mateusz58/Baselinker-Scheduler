@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orders>
+    <order>
+        <address>Letnia 43a</address>
+        <address_box_machine>ZGI08N</address_box_machine>
+        <address_city>Zgierz</address_city>
+        <address_company></address_company>
+        <address_country>Polska</address_country>
+        <address_country_code>PL</address_country_code>
+        <address_name>Filip Stepniak</address_name>
+        <address_pni>ZGI08N</address_pni>
+        <address_postal>95-100</address_postal>
+        <buyer_comments></buyer_comments>
+        <client_address>Letnia 43a</client_address>
+        <client_city>Zgierz</client_city>
+        <client_company></client_company>
+        <client_email>mou8zu7ig9+21118d326@allegromail.pl</client_email>
+        <client_login>sonski_77</client_login>
+        <client_name>Filip Stepniak</client_name>
+        <client_nip></client_nip>
+        <client_phone>+48664589963</client_phone>
+        <client_postal>95-100</client_postal>
+        <client_want_invoice>0</client_want_invoice>
+        <date_add>23.11.2022 10:56:43</date_add>
+        <delivery_price>8.99</delivery_price>
+        <delivery_type>Allegro Paczkomaty InPost</delivery_type>
+        <order_amount_brutto>6.00</order_amount_brutto>
+        <order_id>72002699</order_id>
+        <payment_name>Przelewy24</payment_name>
+        <payment_paid>9.99</payment_paid>
+        <payment_status>1</payment_status>
+        <rows>
+            <row>
+                <amount_brutto>1</amount_brutto>
+                <auction_id>12911880143</auction_id>
+                <date_add></date_add>
+                <item_price_brutto>1.00</item_price_brutto>
+                <name>Item-1</name>
+                <products_ean>1111</products_ean>
+                <products_id>1111111</products_id>
+                <products_sku></products_sku>
+                <quantity>1</quantity>
+                <symkar>1111111</symkar>
+                <vat_rate>0.00</vat_rate>
+            </row>
+            <row>
+                <amount_brutto>2</amount_brutto>
+                <auction_id>12911880143</auction_id>
+                <date_add></date_add>
+                <item_price_brutto>1.00</item_price_brutto>
+                <name>Item-2</name>
+                <products_ean>2222</products_ean>
+                <products_id>2222222</products_id>
+                <products_sku></products_sku>
+                <quantity>2</quantity>
+                <symkar>2222222</symkar>
+                <vat_rate>0.00</vat_rate>
+            </row>
+            <row>
+                <amount_brutto>3</amount_brutto>
+                <auction_id>333333</auction_id>
+                <date_add></date_add>
+                <item_price_brutto>1.00</item_price_brutto>
+                <name>Item-3</name>
+                <products_ean>3333</products_ean>
+                <products_id>333333</products_id>
+                <products_sku></products_sku>
+                <quantity>3</quantity>
+                <symkar>333333</symkar>
+                <vat_rate>0.00</vat_rate>
+            </row>
+        </rows>
+        <seller_comments></seller_comments>
+    </order>
+</orders>

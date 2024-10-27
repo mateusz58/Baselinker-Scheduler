@@ -1,0 +1,23 @@
+{
+  "event_id" : "782d1ec3-8441-44db-a081-76df6b2de18f",
+  "order_id" : "61e2d090-0d53-451f-9031-413559d34732",
+  "order_number" : "10105000000000",
+  "state" : "assigned",
+  "store_id" : "11",
+  "timestamp" : "2020-01-28T07:41:23.384",
+  "items" : [ {
+    "item_id" : "15c3aa83-3f73-4ad6-a326-e1a10a89dd52",
+    "ean" : "4059701022541",
+    "price" : 99.95,
+    "currency" : "EUR",
+    "article_number" : "31.832.34-6,5",
+    "article_location" : "213"
+  }, {
+    "item_id" : "101610aa-71b1-4f52-b3ab-4d6cbc4e8adb",
+    "ean" : "4059701214472",
+    "price" : 99.95,
+    "currency" : "EUR",
+    "article_number" : "33.731.54-7",
+    "article_location" : "213"
+  } ]
+}

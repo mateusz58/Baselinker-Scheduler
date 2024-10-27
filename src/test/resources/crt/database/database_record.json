@@ -1,0 +1,86 @@
+{
+  "order_number": "10105000000000",
+  "order_id":"61e2d090-0d53-451f-9031-413559d34732",
+  "state": "fulfilled",
+  "items": [
+    {
+      "item_id": "15c3aa83-3f73-4ad6-a326-e1a10a89dd52",
+      "ean": "4059701022541",
+      "price": 99.95,
+      "currency": "EUR",
+      "article_number": "31.832.34-6,5",
+      "article_location": "213"
+    }
+    ],
+  "events": [
+    {
+      "event_id": "3aa445e7-550a-442b-93e1-0cf84183e507",
+      "order_id": "61e2d090-0d53-451f-9031-413559d34732",
+      "order_number": "10105000000000",
+      "state": "fulfilled",
+      "store_id": "11",
+      "timestamp": "2020-01-28T07:41:24.927Z",
+      "delivery_details": {
+        "delivery_tracking_number": "003404342888680268172",
+        "delivery_carrier_name": "DHL",
+        "return_tracking_number": "35141263178",
+        "return_carrier_name": "DHL"
+      },
+      "customer_billing_address": {
+        "first_name": "Max",
+        "last_name": "Mustermann",
+        "address_line_1": "Musterstraße 12 34",
+        "zip_code": "12345",
+        "city": "Berlin",
+        "country_code": "DE"
+      },
+      "items": [
+        {
+          "item_id": "15c3aa83-3f73-4ad6-a326-e1a10a89dd52",
+          "ean": "4059701022541",
+          "price": 99.95,
+          "currency": "EUR",
+          "article_number": "31.832.34-6,5",
+          "article_location": "213"
+        }
+      ],
+      "cancelled_items": [
+        {
+          "item_id": "1db07d36-9ea2-4af6-b169-63f0594cf7c0",
+          "ean": "9780141026626",
+          "price": 29.95,
+          "currency": "EUR",
+          "article_number": "11.454.14-2,4",
+          "article_location": "113",
+          "cancellation_reason": "OUT_OF_STOCK"
+        }
+      ]
+    },
+    {
+      "event_id": "782d1ec3-8441-44db-a081-76df6b2de18f",
+      "order_id": "61e2d090-0d53-451f-9031-413559d34732",
+      "order_number": "10105000000000",
+      "state": "assigned",
+      "store_id": "11",
+      "timestamp": "2020-01-28T07:41:23.384Z",
+      "items": [
+        {
+          "item_id": "15c3aa83-3f73-4ad6-a326-e1a10a89dd52",
+          "ean": "4059701022541",
+          "price": 99.95,
+          "currency": "EUR",
+          "article_number": "31.832.34-6,5",
+          "article_location": "213"
+        },
+        {
+          "item_id": "101610aa-71b1-4f52-b3ab-4d6cbc4e8adb",
+          "ean": "4059701214472",
+          "price": 99.95,
+          "currency": "EUR",
+          "article_number": "33.731.54-7",
+          "article_location": "213"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orders>
+    <order orderSource="allegro">
+        <order_id>78765231</order_id>
+        <date_add>15.12.2022 16:25:10</date_add>
+        <payment_name>Przelewy24</payment_name>
+        <payment_status>1</payment_status>
+        <payment_paid>246.59</payment_paid>
+        <delivery_type>Allegro Paczkomaty InPost</delivery_type>
+        <delivery_price>8.99</delivery_price>
+        <buyer_comments></buyer_comments>
+        <seller_comments></seller_comments>
+        <client_login>Client:40594111</client_login>
+        <client_email>n60s6db73m+362deb127@allegromail.pl</client_email>
+        <client_phone>+48796738534</client_phone>
+        <client_name>Dominika Ochotna</client_name>
+        <client_company></client_company>
+        <client_nip></client_nip>
+        <client_postal>30-815</client_postal>
+        <client_city>Kraków</client_city>
+        <client_address>Gen. Jasińskiego 34/25</client_address>
+        <client_want_invoice>0</client_want_invoice>
+        <address_name>Dominika Ochotna</address_name>
+        <address_company></address_company>
+        <address_country>Polska</address_country>
+        <address_country_code>PL</address_country_code>
+        <address_box_machine>KRA12M</address_box_machine>
+        <address_pni>KRA12M</address_pni>
+        <address_postal>30-815</address_postal>
+        <address_city>Kraków</address_city>
+        <address>Gen. Jasińskiego 34/25</address>
+        <order_amount_brutto>237.00</order_amount_brutto>
+        <rows>
+            <row>
+                <name>Bluza Schmuddelwedda XL</name>
+                <products_id>169438957</products_id>
+                <products_ean>4063523607930</products_ean>
+                <products_sku></products_sku>
+                <auction_id>12942162946</auction_id>
+                <item_price_brutto>237.60</item_price_brutto>
+                <quantity>1</quantity>
+                <amount_brutto>237.6</amount_brutto>
+                <vat_rate>23.00</vat_rate>
+                <symkar>169438957</symkar>
+                <date_add></date_add>
+            </row>
+        </rows>
+    </order>
+</orders>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <springProfile name="dev">
+        <include resource="org/springframework/boot/logging/logback/defaults.xml"/>
+        <include resource="org/springframework/boot/logging/logback/console-appender.xml"/>
+        <root level="INFO">
+            <appender-ref ref="CONSOLE"/>
+        </root>
+    </springProfile>
+    <springProfile name="prod">
+        <include resource="org/springframework/boot/logging/logback/defaults.xml"/>
+        <include resource="org/springframework/boot/logging/logback/console-appender.xml"/>
+        <appender name="logstashNetworkAppender" class="net.logstash.logback.appender.LogstashTcpSocketAppender">
+            <destination>logstash:5000</destination>
+            <encoder class="net.logstash.logback.encoder.LogstashEncoder"/>
+            <filter class="converter.logging.LevelFilter">
+                <level>DEBUG</level>
+                <level>INFO</level>
+                <level>ERROR</level>
+                <onMatch>ACCEPT</onMatch>
+                <onMismatch>DENY</onMismatch>
+            </filter>
+            <filter class="converter.logging.ClassNameFilter">
+                <className>converter</className>
+                <onMatch>ACCEPT</onMatch>
+                <onMismatch>DENY</onMismatch>
+            </filter>
+        </appender>
+
+        <logger name="org.springframework" level="OFF" />
+        <logger name="org.mongodb.driver" level="OFF" />
+        <logger name="org.apache.catalina.startup.DigesterFactory" level="OFF" />
+        <logger name="org.apache.catalina.util.LifecycleBase" level="OFF" />
+        <logger name="org.apache.coyote.http11.Http11NioProtocol" level="OFF" />
+        <logger name="o.s.d.r.w" level="OFF"/>
+        <logger name="o.s.b.a.w.s.e" level="OFF"/>
+
+        <root level="DEBUG">
+            <appender-ref ref="CONSOLE"/>
+            <appender-ref ref="logstashNetworkAppender"/>
+        </root>
+    </springProfile>
+</configuration>

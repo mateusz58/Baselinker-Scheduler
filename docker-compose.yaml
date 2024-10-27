@@ -1,0 +1,91 @@
+version: "3.7"
+
+
+services:
+  orders_app:
+    image: itfaina.pl/baselinker/converter:latest
+    ports:
+      - "8085:8085"
+    networks:
+      - backend
+    environment:
+      - spring.data.mongodb.uri=mongodb://admin:p0z0rny@mongo:27017/orders?authSource=admin
+    depends_on:
+      - mongodb
+      - logstash
+  mongodb:
+    image: mongo:5.0
+    container_name: mongo
+    hostname: mongo
+    restart: unless-stopped
+    command: ["--bind_ip", "0.0.0.0"]
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=admin
+      - MONGO_INITDB_ROOT_PASSWORD=p0z0rny
+      - MONGO_INITDB_DATABASE=orders
+    volumes:
+      - mongo-data:/data/db
+    networks:
+      - backend
+    ports:
+      - 27017:27017
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:7.17.9
+    hostname: elasticsearch
+    container_name: elasticsearch
+    environment:
+      - discovery.type=single-node
+      - bootstrap.memory_lock=true
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+      - ELASTICSEARCH_USERNAME=elastic
+      - ELASTIC_PASSWORD=p0z0rny
+      - xpack.security.enabled=true
+      - ingest.geoip.downloader.enabled=false
+    volumes:
+      - elasticsearch-data:/usr/share/elasticsearch/data
+    ports:
+      - 9200:9200
+    networks:
+      - backend
+  logstash:
+    image: docker.elastic.co/logstash/logstash:7.17.9
+    container_name: logstash
+    hostname: logstash
+    ports:
+      - 5000:5000/tcp
+      - 9600:9600/tcp
+    networks:
+      - backend
+    volumes:
+      - ./logstash/pipeline:/usr/share/logstash/pipeline
+    environment:
+      - XPACK_MONITORING_ENABLED=false
+      - XPACK_MANAGEMENT_ENABLED=false
+      - XPACK_SECURITY_ENABLED=false
+    depends_on:
+      - elasticsearch
+  kibana:
+    image: docker.elastic.co/kibana/kibana:7.17.9
+    hostname: kibana
+    container_name: kibana
+    environment:
+      - ELASTICSEARCH_USERNAME=elastic
+      - ELASTICSEARCH_PASSWORD=p0z0rny
+      - ELASTICSEARCH_URL=http://elasticsearch:9200
+      - ELASTICSEARCH_HOSTS=http://elasticsearch:9200
+    ports:
+      - 5601:5601
+    depends_on:
+      - elasticsearch
+    networks:
+      - backend
+
+networks:
+  backend:
+    driver: bridge
+
+volumes:
+  elasticsearch-data:
+    driver: local
+  mongo-data:
+    driver: local

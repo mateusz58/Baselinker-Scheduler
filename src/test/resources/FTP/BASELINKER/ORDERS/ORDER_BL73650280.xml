@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <order_data>
+    <order_date>28.11.2022 23:32:47</order_date>
+    <tb_id>BL73650280</tb_id>
+    <channel_sign>allegropl</channel_sign>
+    <channel_no></channel_no>
+    <paid>440.99</paid>
+    <approved>1</approved>
+    <item_count>1</item_count>
+    <total_item_amount>432.00</total_item_amount>
+    <date_created>2022-11-28T23:32:47</date_created>
+  </order_data>
+  <sell_to>
+    <tb_id>sw9xw83etk+41884dee8@allegromail.pl</tb_id>
+    <channel_no></channel_no>
+    <firstname>Sylwia</firstname>
+    <lastname>Taha-Borowik</lastname>
+    <name>Sylwia  Taha-Borowik</name>
+    <street_no>Lesna 7H</street_no>
+    <zip>15-603</zip>
+    <city>Olmonty</city>
+    <country>PL</country>
+    <email>sw9xw83etk+41884dee8@allegromail.pl</email>
+  </sell_to>
+  <ship_to>
+    <tb_id>sw9xw83etk+41884dee8@allegromail.pl</tb_id>
+    <channel_no></channel_no>
+    <firstname>Sylwia</firstname>
+    <lastname>Taha-Borowik</lastname>
+    <name>Sylwia  Taha-Borowik</name>
+    <street_no>Lesna 7H</street_no>
+    <zip>15-603</zip>
+    <city>Olmonty</city>
+    <country>PL</country>
+    <email>sw9xw83etk+41884dee8@allegromail.pl</email>
+  </ship_to>
+  <shipment>
+    <price>0</price>
+  </shipment>
+  <payment>
+    <costs>0</costs>
+    <directdebit></directdebit>
+    <type>allegropl</type>
+  </payment>
+  <items>
+    <item>
+      <tb_id>12918921444</tb_id>
+      <channel_id></channel_id>
+      <sku>4063523657171</sku>
+      <channel_sku></channel_sku>
+      <ean>4063523657171</ean>
+      <quantity>1</quantity>
+      <billing_text>Kurtka męska Parka zimowa DreiMaster L</billing_text>
+      <item_price>432.00</item_price>
+      <date_created>2022-11-28T23:32:47</date_created>
+    </item>
+  </items>
+</order>

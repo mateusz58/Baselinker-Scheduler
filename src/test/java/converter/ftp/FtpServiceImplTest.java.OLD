@@ -1,0 +1,94 @@
+//package converter.ftp;
+//
+//import converter.configuration.FILES_TESTING;
+//import converter.exceptions.FtpServiceException;
+//import converter.exceptions.ServiceOperationException;
+//import converter.services.ftp.FtpServiceImpl;
+//import org.apache.commons.io.FileUtils;
+//import org.junit.jupiter.api.AfterEach;
+//import org.junit.jupiter.api.BeforeEach;
+//import org.junit.jupiter.api.Test;
+//import org.mockftpserver.fake.FakeFtpServer;
+//import org.mockftpserver.fake.UserAccount;
+//import org.mockftpserver.fake.filesystem.DirectoryEntry;
+//import org.mockftpserver.fake.filesystem.FileEntry;
+//import org.mockftpserver.fake.filesystem.FileSystem;
+//import org.mockftpserver.fake.filesystem.UnixFakeFileSystem;
+//
+//import java.io.File;
+//import java.io.IOException;
+//import java.net.URISyntaxException;
+//import java.nio.file.Files;
+//import java.nio.file.Path;
+//import java.nio.file.Paths;
+//import java.util.Collection;
+//
+//import static org.junit.jupiter.api.Assertions.assertTrue;
+//
+//public class FtpServiceImplTest {
+//
+//    private FakeFtpServer fakeFtpServer;
+//
+//    private FtpServiceImpl ftpClient;
+//
+//    @BeforeEach
+//    public void setup() throws IOException, ServiceOperationException {
+//        fakeFtpServer = new FakeFtpServer();
+//        fakeFtpServer.addUserAccount(new UserAccount("user", "password", "/data"));
+//
+//        FileSystem fileSystem = new UnixFakeFileSystem();
+//        fileSystem.add(new DirectoryEntry("/data"));
+//        fileSystem.add(new FileEntry("/data/foobar.txt", "abcdef 1234567890"));
+//        fakeFtpServer.setFileSystem(fileSystem);
+//        fakeFtpServer.setServerControlPort(0);
+//
+//        fakeFtpServer.start();
+//
+//        ftpClient = new FtpServiceImpl("localhost", fakeFtpServer.getServerControlPort(), "user", "password");
+//        ftpClient.open();
+//
+//        Files.deleteIfExists(Paths.get(String.valueOf(FILES_TESTING.FILE_HELPER_GIVEN_FILE)));
+//        Files.deleteIfExists(Paths.get(String.valueOf(FILES_TESTING.FILE_HELPER_ACTUAL_FILE)));
+//    }
+//
+//    @AfterEach
+//    public void teardown() throws IOException {
+//        ftpClient.close();
+//        fakeFtpServer.stop();
+//    }
+//
+//    @Test
+//    public void givenRemoteFile_whenListingRemoteFiles_thenItIsContainedInList() throws IOException {
+//        Collection<String> files = ftpClient.listFiles("");
+//
+//        assertTrue(files.contains("foobar.txt"));
+//    }
+//
+//    @Test
+//    public void downloadFile() throws IOException {
+//        ftpClient.download("/foobar.txt", "downloaded_buz.txt");
+//
+//        assertTrue(new File("downloaded_buz.txt").exists());
+//        new File("downloaded_buz.txt").delete(); // cleanup
+//    }
+//
+//    @Test
+//    public void uploadFile() throws URISyntaxException, IOException, FtpServiceException {
+//        Files.createFile(Path.of(FILES_TESTING.FILE_HELPER_GIVEN_FILE.getPath()));
+//        ftpClient.upload(FILES_TESTING.FILE_HELPER_GIVEN_FILE.getPath(), "/data/test.txt");
+//
+//        assertTrue(fakeFtpServer.getFileSystem().exists("/data/test.txt"));
+//    }
+//
+//    @Test
+//    public void checkIfUploadedFilehasGivenText() throws URISyntaxException, IOException, FtpServiceException {
+//        //given
+//        //when
+//        Files.createFile(Path.of(FILES_TESTING.FILE_HELPER_GIVEN_FILE.getPath()));
+//        ftpClient.upload(FILES_TESTING.FILE_HELPER_GIVEN_FILE.getAbsolutePath(), "/data/test.txt");
+//        ftpClient.download("/data/test.txt", FILES_TESTING.FILE_HELPER_ACTUAL_FILE.getPath());
+//
+//        //then
+//        assertTrue(FileUtils.contentEquals(FILES_TESTING.FILE_HELPER_GIVEN_FILE, FILES_TESTING.FILE_HELPER_ACTUAL_FILE));
+//    }
+//}

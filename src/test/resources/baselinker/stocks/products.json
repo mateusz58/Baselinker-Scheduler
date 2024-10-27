@@ -1,0 +1,29 @@
+{
+  "status": "SUCCESS",
+  "products": {
+    "161617218": {
+      "id": 161617218,
+      "ean": "4065804054204",
+      "sku": "",
+      "name": "Kurtka damska przeciwdeszczowa keepsudry myMo L",
+      "stock": {
+        "bl_51640": 11
+      },
+      "prices": {
+        "36669": 402
+      }
+    },
+    "161617219": {
+      "id": 161617219,
+      "ean": "4065804054211",
+      "sku": "",
+      "name": "Kurtka damska przeciwdeszczowa keepsudry myMo M",
+      "stock": {
+        "bl_51640": 11
+      },
+      "prices": {
+        "36669": 402
+      }
+    }
+  }
+}
